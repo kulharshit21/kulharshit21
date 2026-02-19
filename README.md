@@ -1,4 +1,6 @@
-# Hi there, I'm Kulharshit 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kulharshit+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+GPU+Computing;B.Tech+CSE+%40+SRM+Chennai;Building+AI+that+matters+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech CSE @ SRM Institute of Science and Technology  
 🧠 ML | Deep Learning | GPU Computing | Medical Imaging  
