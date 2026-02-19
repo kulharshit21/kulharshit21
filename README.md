@@ -5,6 +5,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kulharshit21&color=6AD3F7&style=flat-square&label=Profile+Views)
+![followers](https://img.shields.io/github/followers/kulharshit21?style=flat-square&color=6AD3F7&labelColor=1a1b27)
+![stars](https://img.shields.io/github/stars/kulharshit21?style=flat-square&color=6AD3F7&labelColor=1a1b27)
 
 </div>
 
@@ -21,9 +23,9 @@ harshit = {
     "Interests" : ["Deep Learning", "CUDA Optimization", "Explainable AI"],
     "Open to"   : "Research Collaborations & ML Projects"
 }
-```
+` ``
 
----
+***
 
 ## 🛠️ Tech Stack
 
@@ -31,35 +33,20 @@ harshit = {
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,js,docker,git,github,vscode,linux,mysql&perline=6" />
 </p>
 
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kulharshit21&theme=dark&no-frame=false&no-bg=false&margin-w=4" />
-</p>
----
+***
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulharshit21&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kulharshit21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kulharshit21&theme=tokyonight&hide_border=true&border_radius=10" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="40%" />
 </p>
 
----
+***
 
-## 🤖 Today's Top ML Papers from ArXiv
-<!-- ARXIV_PAPERS:START -->
-- [A Koopman-Bayesian Framework for High-Fidelity, Perceptually Optimized Haptic Surgical Simulation](https://arxiv.org/abs/2602.15834)
-- [Memes-as-Replies: Can Models Select Humorous Manga Panel Responses?](https://arxiv.org/abs/2602.15842)
-- [Kalman-Inspired Runtime Stability and Recovery in Hybrid Reasoning Systems](https://arxiv.org/abs/2602.15855)
-<!-- ARXIV_PAPERS:END -->
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -70,19 +57,22 @@ harshit = {
   </picture>
 </p>
 
----
+***
 
+## 🤖 Today's Top ML Papers from ArXiv
+<!-- ARXIV_PAPERS:START -->
+_Fetching latest papers..._
+<!-- ARXIV_PAPERS:END -->
+
+***
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **16**
-- 👥 Followers: **4**
-- ⭐ Following: **3**
-- 🕒 Last Updated: **2026-02-19 16:50 UTC**
+_Loading stats..._
 <!-- GITHUB_STATS:END -->
 
----
+***
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Auto-updated+3x+daily+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Auto-updated+every+8hrs+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
 </div>
