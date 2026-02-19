@@ -60,6 +60,18 @@ harshit = {
 <!-- ARXIV_PAPERS:END -->
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kulharshit21/kulharshit21/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kulharshit21/kulharshit21/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/kulharshit21/kulharshit21/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
