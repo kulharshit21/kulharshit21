@@ -21,3 +21,47 @@ harshit = {
     "🧠 Interests" : ["Deep Learning", "CUDA Optimization", "Explainable AI"],
     "🌐 Open to"   : "Research Collaborations & ML Projects"
 }
+` ` `
+
+***
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,js,docker,git,github,vscode,linux,mysql&perline=6" />
+</p>
+
+***
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulharshit21&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kulharshit21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=1800" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" width="50%" />
+</p>
+
+***
+
+## 🤖 Today's Top ML Papers from ArXiv
+<!-- ARXIV_PAPERS:START -->
+_Fetching latest papers..._
+<!-- ARXIV_PAPERS:END -->
+
+***
+
+## 📈 GitHub Activity
+<!-- GITHUB_STATS:START -->
+_Loading stats..._
+<!-- GITHUB_STATS:END -->
+
+***
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=🔄+Auto-updated+3x+daily+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
+
+</div>
