@@ -1,0 +1,32 @@
+name: 🔄 Auto Update README
+
+on:
+  schedule:
+    - cron: '30 2,8,16 * * *'  # 8 AM, 2 PM, 10 PM IST
+  workflow_dispatch:             # allows manual trigger too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run update script
+        run: python scripts/update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: auto-update README [$(date +'%H:%M UTC')]" || exit 0
+          git push
