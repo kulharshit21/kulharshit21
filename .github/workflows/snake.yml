@@ -12,13 +12,21 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: kulharshit21
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - run: git config user.name "github-actions[bot]" && git config user.email "github-actions@github.com" && git add dist/ && git commit -m "chore: update snake animation" || exit 0 && git push
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+          git add dist/
+          git commit -m "chore: update snake animation" || exit 0
+          git push
