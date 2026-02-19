@@ -2,7 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harshit-Kulkarni+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+GPU+Computing;B.Tech+CSE+%40+SRM+Chennai;Building+AI+that+matters+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
-🎓 B.Tech CSE @ SRM Institute of Science and Technology  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulharshit21&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kulharshit21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+</p>
+ 
 🧠 ML | Deep Learning | GPU Computing | Medical Imaging  
 📍 Chennai, India
 
