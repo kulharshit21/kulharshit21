@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Kulharshit 👋
 
-<!--
-**kulharshit21/kulharshit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ SRM Institute of Science and Technology  
+🧠 ML | Deep Learning | GPU Computing | Medical Imaging  
+📍 Chennai, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Today's Top ML Papers from ArXiv
+<!-- ARXIV_PAPERS:START -->
+_Fetching latest papers..._
+<!-- ARXIV_PAPERS:END -->
+
+---
+
+## 📊 GitHub Activity
+<!-- GITHUB_STATS:START -->
+_Loading stats..._
+<!-- GITHUB_STATS:END -->
+
+---
+
+_🔄 Auto-updated 3x daily via GitHub Actions_
