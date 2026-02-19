@@ -78,6 +78,4 @@ harshit = {
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Auto-updated+every+8hrs+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
-</div>
+
