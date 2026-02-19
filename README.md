@@ -1,38 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harshit-Kulkarni+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+GPU+Computing;B.Tech+CSE+%40+SRM+Chennai;Building+AI+that+matters+%F0%9F%A7%A0" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulharshit21&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kulharshit21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Harshit+Kulkarni+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+GPU+Computing;B.Tech+CSE+%40+SRM+Chennai;Building+AI+that+matters+%F0%9F%A7%A0;RTX+5070+Ti+%7C+CUDA+%7C+PyTorch+%E2%9A%A1" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
-</p>
- 
-🧠 ML | Deep Learning | GPU Computing | Medical Imaging  
-📍 Chennai, India
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kulharshit21&color=6AD3F7&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## 🤖 Today's Top ML Papers from ArXiv
-<!-- ARXIV_PAPERS:START -->
-- [A Koopman-Bayesian Framework for High-Fidelity, Perceptually Optimized Haptic Surgical Simulation](https://arxiv.org/abs/2602.15834)
-- [Memes-as-Replies: Can Models Select Humorous Manga Panel Responses?](https://arxiv.org/abs/2602.15842)
-- [Kalman-Inspired Runtime Stability and Recovery in Hybrid Reasoning Systems](https://arxiv.org/abs/2602.15855)
-<!-- ARXIV_PAPERS:END -->
+## 🧑‍💻 About Me
 
----
-
-## 📊 GitHub Activity
-<!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **16**
-- 👥 Followers: **4**
-- ⭐ Following: **3**
-- 🕒 Last Updated: **2026-02-19 09:53 UTC**
-<!-- GITHUB_STATS:END -->
-
----
-
-_🔄 Auto-updated 3x daily via GitHub Actions_
+```python
+harshit = {
+    "🎓 Education" : "B.Tech CSE @ SRM Institute of Science and Technology",
+    "📍 Location"  : "Chennai, India",
+    "🔬 Research"  : ["Medical Imaging", "Satellite Analysis", "Diabetic Retinopathy"],
+    "⚡ GPU"        : "NVIDIA RTX 5070 Ti",
+    "🧠 Interests" : ["Deep Learning", "CUDA Optimization", "Explainable AI"],
+    "🌐 Open to"   : "Research Collaborations & ML Projects"
+}
