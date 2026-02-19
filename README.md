@@ -14,16 +14,16 @@
 
 ```python
 harshit = {
-    "🎓 Education" : "B.Tech CSE @ SRM Institute of Science and Technology",
-    "📍 Location"  : "Chennai, India",
-    "🔬 Research"  : ["Medical Imaging", "Satellite Analysis", "Diabetic Retinopathy"],
-    "⚡ GPU"        : "NVIDIA RTX 5070 Ti",
-    "🧠 Interests" : ["Deep Learning", "CUDA Optimization", "Explainable AI"],
-    "🌐 Open to"   : "Research Collaborations & ML Projects"
+    "Education" : "B.Tech CSE @ SRM Institute of Science and Technology",
+    "Location"  : "Chennai, India",
+    "Research"  : ["Medical Imaging", "Satellite Analysis", "Diabetic Retinopathy"],
+    "GPU"       : "NVIDIA RTX 5070 Ti",
+    "Interests" : ["Deep Learning", "CUDA Optimization", "Explainable AI"],
+    "Open to"   : "Research Collaborations & ML Projects"
 }
-` ` `
+```
 
-***
+---
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ harshit = {
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,js,docker,git,github,vscode,linux,mysql&perline=6" />
 </p>
 
-***
+---
 
 ## 📊 GitHub Stats
 
@@ -44,24 +44,22 @@ harshit = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulharshit21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" width="50%" />
 </p>
 
-***
+---
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
 _Fetching latest papers..._
 <!-- ARXIV_PAPERS:END -->
 
-***
+---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
 _Loading stats..._
 <!-- GITHUB_STATS:END -->
 
-***
+---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=🔄+Auto-updated+3x+daily+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Auto-updated+3x+daily+via+GitHub+Actions;Powered+by+Python+%2B+ArXiv+API" alt="footer" />
 </div>
