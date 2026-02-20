@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [A Koopman-Bayesian Framework for High-Fidelity, Perceptually Optimized Haptic Surgical Simulation](https://arxiv.org/abs/2602.15834)
-- [Memes-as-Replies: Can Models Select Humorous Manga Panel Responses?](https://arxiv.org/abs/2602.15842)
-- [Kalman-Inspired Runtime Stability and Recovery in Hybrid Reasoning Systems](https://arxiv.org/abs/2602.15855)
+- [MMCAformer: Macro-Micro Cross-Attention Transformer for Traffic Speed Prediction with Microscopic Connected Vehicle Driving Behavior](https://arxiv.org/abs/2602.16730)
+- [A Few-Shot LLM Framework for Extreme Day Classification in Electricity Markets](https://arxiv.org/abs/2602.16735)
+- [Real-time Secondary Crash Likelihood Prediction Excluding Post Primary Crash Features](https://arxiv.org/abs/2602.16739)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **3**
-- 🕒 Last Updated: **2026-02-20 01:55 UTC**
+- 🕒 Last Updated: **2026-02-20 08:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
