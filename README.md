@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [MMCAformer: Macro-Micro Cross-Attention Transformer for Traffic Speed Prediction with Microscopic Connected Vehicle Driving Behavior](https://arxiv.org/abs/2602.16730)
-- [A Few-Shot LLM Framework for Extreme Day Classification in Electricity Markets](https://arxiv.org/abs/2602.16735)
-- [Real-time Secondary Crash Likelihood Prediction Excluding Post Primary Crash Features](https://arxiv.org/abs/2602.16739)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-02-21 01:49 UTC**
+- 🕒 Last Updated: **2026-02-21 08:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
