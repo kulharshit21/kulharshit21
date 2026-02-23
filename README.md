@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving](https://arxiv.org/abs/2602.17677)
+- [Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization](https://arxiv.org/abs/2602.17679)
+- [BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning with LLMs](https://arxiv.org/abs/2602.17680)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-23 01:59 UTC**
+- 🕒 Last Updated: **2026-02-23 08:47 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
