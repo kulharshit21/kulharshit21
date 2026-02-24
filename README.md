@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving](https://arxiv.org/abs/2602.17677)
-- [Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization](https://arxiv.org/abs/2602.17679)
-- [BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning with LLMs](https://arxiv.org/abs/2602.17680)
+- [Revisiting the Seasonal Trend Decomposition for Enhanced Time Series Forecasting](https://arxiv.org/abs/2602.18465)
+- [Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling](https://arxiv.org/abs/2602.18472)
+- [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://arxiv.org/abs/2602.18473)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-24 01:56 UTC**
+- 🕒 Last Updated: **2026-02-24 08:43 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
