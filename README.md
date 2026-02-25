@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Revisiting the Seasonal Trend Decomposition for Enhanced Time Series Forecasting](https://arxiv.org/abs/2602.18465)
-- [Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling](https://arxiv.org/abs/2602.18472)
-- [Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series](https://arxiv.org/abs/2602.18473)
+- [Tensor Network Generator-Enhanced Optimization for Traveling Salesman Problem](https://arxiv.org/abs/2602.20175)
+- [MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Elastic LLMs](https://arxiv.org/abs/2602.20191)
+- [FedAvg-Based CTMC Hazard Model for Federated Bridge Deterioration Assessment](https://arxiv.org/abs/2602.20194)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-25 01:58 UTC**
+- 🕒 Last Updated: **2026-02-25 08:44 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
