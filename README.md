@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Tensor Network Generator-Enhanced Optimization for Traveling Salesman Problem](https://arxiv.org/abs/2602.20175)
-- [MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Elastic LLMs](https://arxiv.org/abs/2602.20191)
-- [FedAvg-Based CTMC Hazard Model for Federated Bridge Deterioration Assessment](https://arxiv.org/abs/2602.20194)
+- [Latent Context Compilation: Distilling Long Context into Compact Portable Memory](https://arxiv.org/abs/2602.21221)
+- [ACAR: Adaptive Complexity Routing for Multi-Model Ensembles with Auditable Decision Traces](https://arxiv.org/abs/2602.21231)
+- [Urban Vibrancy Embedding and Application on Traffic Prediction](https://arxiv.org/abs/2602.21232)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-26 01:54 UTC**
+- 🕒 Last Updated: **2026-02-26 08:44 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
