@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Latent Context Compilation: Distilling Long Context into Compact Portable Memory](https://arxiv.org/abs/2602.21221)
-- [ACAR: Adaptive Complexity Routing for Multi-Model Ensembles with Auditable Decision Traces](https://arxiv.org/abs/2602.21231)
-- [Urban Vibrancy Embedding and Application on Traffic Prediction](https://arxiv.org/abs/2602.21232)
+- [To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning](https://arxiv.org/abs/2602.22227)
+- [Patient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals](https://arxiv.org/abs/2602.22228)
+- [Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks](https://arxiv.org/abs/2602.22249)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-27 01:53 UTC**
+- 🕒 Last Updated: **2026-02-27 08:37 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
