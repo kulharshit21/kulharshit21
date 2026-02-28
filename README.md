@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement Learning](https://arxiv.org/abs/2602.22227)
-- [Patient-Centered, Graph-Augmented Artificial Intelligence-Enabled Passive Surveillance for Early Stroke Risk Detection in High-Risk Individuals](https://arxiv.org/abs/2602.22228)
-- [Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks](https://arxiv.org/abs/2602.22249)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **16**
 - 👥 Followers: **4**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-02-28 01:44 UTC**
+- 🕒 Last Updated: **2026-02-28 08:26 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
