@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Detoxifying LLMs via Representation Erasure-Based Preference Optimization](https://arxiv.org/abs/2602.23391)
+- [U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation](https://arxiv.org/abs/2602.23400)
+- [Long Range Frequency Tuning for QML](https://arxiv.org/abs/2602.23409)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **17**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-02 01:56 UTC**
+- 🕒 Last Updated: **2026-03-02 08:41 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
