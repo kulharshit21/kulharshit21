@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Detoxifying LLMs via Representation Erasure-Based Preference Optimization](https://arxiv.org/abs/2602.23391)
-- [U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation](https://arxiv.org/abs/2602.23400)
-- [Long Range Frequency Tuning for QML](https://arxiv.org/abs/2602.23409)
+- [Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework](https://arxiv.org/abs/2603.00010)
+- [StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser](https://arxiv.org/abs/2603.00037)
+- [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](https://arxiv.org/abs/2603.00039)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **17**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-03 01:58 UTC**
+- 🕒 Last Updated: **2026-03-03 08:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
