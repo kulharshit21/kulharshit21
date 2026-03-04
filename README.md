@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework](https://arxiv.org/abs/2603.00010)
-- [StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser](https://arxiv.org/abs/2603.00037)
-- [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](https://arxiv.org/abs/2603.00039)
+- [RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning](https://arxiv.org/abs/2603.02215)
+- [ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue](https://arxiv.org/abs/2603.02216)
+- [Is Retraining-Free Enough? The Necessity of Router Calibration for Efficient MoE Compression](https://arxiv.org/abs/2603.02217)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **17**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-04 01:52 UTC**
+- 🕒 Last Updated: **2026-03-04 08:36 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
