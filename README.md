@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Knowledge Graph and Hypergraph Transformers with Repository-Attention and Journey-Based Role Transport](https://arxiv.org/abs/2603.03304)
-- [AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis](https://arxiv.org/abs/2603.03378)
-- [RADAR: Learning to Route with Asymmetry-aware DistAnce Representations](https://arxiv.org/abs/2603.03388)
+- [Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal Forecasting](https://arxiv.org/abs/2603.04418)
+- [Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks](https://arxiv.org/abs/2603.04420)
+- [FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for Robust Federated Learning](https://arxiv.org/abs/2603.04422)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **17**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-06 01:55 UTC**
+- 🕒 Last Updated: **2026-03-06 08:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
