@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Decorrelating the Future: Joint Frequency Domain Learning for Spatio-temporal Forecasting](https://arxiv.org/abs/2603.04418)
-- [Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks](https://arxiv.org/abs/2603.04420)
-- [FedEMA-Distill: Exponential Moving Average Guided Knowledge Distillation for Robust Federated Learning](https://arxiv.org/abs/2603.04422)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **17**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-07 01:48 UTC**
+- 🕒 Last Updated: **2026-03-07 08:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
