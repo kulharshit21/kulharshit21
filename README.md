@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [No More DeLuLu: Physics-Inspired Kernel Networks for Geometrically-Grounded Neural Computation](https://arxiv.org/abs/2603.12276)
-- [From Garbage to Gold: A Data-Architectural Theory of Predictive Robustness](https://arxiv.org/abs/2603.12288)
-- [Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction](https://arxiv.org/abs/2603.12293)
+- [Translational Gaps in Graph Transformers for Longitudinal EHR Prediction: A Critical Appraisal of GT-BEHRT](https://arxiv.org/abs/2603.13231)
+- [RFX-Fuse: Breiman and Cutler's Unified ML Engine + Native Explainable Similarity](https://arxiv.org/abs/2603.13234)
+- [Continual Fine-Tuning with Provably Accurate and Parameter-Free Task Retrieval](https://arxiv.org/abs/2603.13235)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-17 01:57 UTC**
+- 🕒 Last Updated: **2026-03-17 08:51 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
