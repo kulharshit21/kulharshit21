@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Translational Gaps in Graph Transformers for Longitudinal EHR Prediction: A Critical Appraisal of GT-BEHRT](https://arxiv.org/abs/2603.13231)
-- [RFX-Fuse: Breiman and Cutler's Unified ML Engine + Native Explainable Similarity](https://arxiv.org/abs/2603.13234)
-- [Continual Fine-Tuning with Provably Accurate and Parameter-Free Task Retrieval](https://arxiv.org/abs/2603.13235)
+- [Tokenization Tradeoffs in Structured EHR Foundation Models](https://arxiv.org/abs/2603.15644)
+- [XLinear: Frequency-Enhanced MLP with CrossFilter for Robust Long-Range Forecasting](https://arxiv.org/abs/2603.15645)
+- [Alternating Reinforcement Learning with Contextual Rubric Rewards](https://arxiv.org/abs/2603.15646)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-18 02:01 UTC**
+- 🕒 Last Updated: **2026-03-18 08:45 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
