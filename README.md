@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Tokenization Tradeoffs in Structured EHR Foundation Models](https://arxiv.org/abs/2603.15644)
-- [XLinear: Frequency-Enhanced MLP with CrossFilter for Robust Long-Range Forecasting](https://arxiv.org/abs/2603.15645)
-- [Alternating Reinforcement Learning with Contextual Rubric Rewards](https://arxiv.org/abs/2603.15646)
+- [A foundation model for electrodermal activity data](https://arxiv.org/abs/2603.16878)
+- [Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks](https://arxiv.org/abs/2603.16881)
+- [Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness](https://arxiv.org/abs/2603.16888)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-19 02:02 UTC**
+- 🕒 Last Updated: **2026-03-19 08:39 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
