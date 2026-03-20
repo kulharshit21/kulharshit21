@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [A foundation model for electrodermal activity data](https://arxiv.org/abs/2603.16878)
-- [Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks](https://arxiv.org/abs/2603.16881)
-- [Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness](https://arxiv.org/abs/2603.16888)
+- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://arxiv.org/abs/2603.18017)
+- [Engineering Verifiable Modularity in Transformers via Per-Layer Supervision](https://arxiv.org/abs/2603.18029)
+- [InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model](https://arxiv.org/abs/2603.18031)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-20 01:56 UTC**
+- 🕒 Last Updated: **2026-03-20 08:37 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
