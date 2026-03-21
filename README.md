@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://arxiv.org/abs/2603.18017)
-- [Engineering Verifiable Modularity in Transformers via Per-Layer Supervision](https://arxiv.org/abs/2603.18029)
-- [InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model](https://arxiv.org/abs/2603.18031)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-21 01:50 UTC**
+- 🕒 Last Updated: **2026-03-21 08:29 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
