@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Speculating Experts Accelerates Inference for Mixture-of-Experts](https://arxiv.org/abs/2603.19289)
+- [A Visualization for Comparative Analysis of Regression Models](https://arxiv.org/abs/2603.19291)
+- [Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data](https://arxiv.org/abs/2603.19294)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **19**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-23 02:03 UTC**
+- 🕒 Last Updated: **2026-03-23 08:52 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
