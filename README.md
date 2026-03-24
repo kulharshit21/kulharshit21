@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Speculating Experts Accelerates Inference for Mixture-of-Experts](https://arxiv.org/abs/2603.19289)
-- [A Visualization for Comparative Analysis of Regression Models](https://arxiv.org/abs/2603.19291)
-- [Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data](https://arxiv.org/abs/2603.19294)
+- [JointFM-0.1: A Foundation Model for Multi-Target Joint Distributional Prediction](https://arxiv.org/abs/2603.20266)
+- [MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery](https://arxiv.org/abs/2603.20295)
+- [Collaborative Adaptive Curriculum for Progressive Knowledge Distillation](https://arxiv.org/abs/2603.20296)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-24 01:54 UTC**
+- 🕒 Last Updated: **2026-03-24 08:51 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
