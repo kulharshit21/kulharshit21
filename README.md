@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [JointFM-0.1: A Foundation Model for Multi-Target Joint Distributional Prediction](https://arxiv.org/abs/2603.20266)
-- [MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery](https://arxiv.org/abs/2603.20295)
-- [Collaborative Adaptive Curriculum for Progressive Knowledge Distillation](https://arxiv.org/abs/2603.20296)
+- [Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning](https://arxiv.org/abs/2603.22292)
+- [Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks](https://arxiv.org/abs/2603.22294)
+- [Between the Layers Lies the Truth: Uncertainty Estimation in LLMs Using Intra-Layer Local Information Scores](https://arxiv.org/abs/2603.22299)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-03-25 02:00 UTC**
+- 🕒 Last Updated: **2026-03-25 08:48 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
