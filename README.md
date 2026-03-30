@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious Disease Control](https://arxiv.org/abs/2603.25771)
+- [Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations](https://arxiv.org/abs/2603.25779)
+- [MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training](https://arxiv.org/abs/2603.25813)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-03-30 02:12 UTC**
+- 🕒 Last Updated: **2026-03-30 09:09 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
