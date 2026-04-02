@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845)
-- [Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data](https://arxiv.org/abs/2603.28916)
-- [Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training](https://arxiv.org/abs/2603.28921)
+- [Two-Stage Optimizer-Aware Online Data Selection for Large Language Models](https://arxiv.org/abs/2604.00001)
+- [Task-Centric Personalized Federated Fine-Tuning of Language Models](https://arxiv.org/abs/2604.00050)
+- [Evolution Strategies for Deep RL pretraining](https://arxiv.org/abs/2604.00066)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-02 02:04 UTC**
+- 🕒 Last Updated: **2026-04-02 08:53 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
