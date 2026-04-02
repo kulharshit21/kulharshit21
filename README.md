@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Mitigating Forgetting in Continual Learning with Selective Gradient Projection](https://arxiv.org/abs/2603.26671)
-- [Boundary-aware Prototype-driven Adversarial Alignment for Cross-Corpus EEG Emotion Recognition](https://arxiv.org/abs/2603.26713)
-- [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/abs/2603.26775)
+- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845)
+- [Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data](https://arxiv.org/abs/2603.28916)
+- [Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training](https://arxiv.org/abs/2603.28921)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-01 16:51 UTC**
+- 🕒 Last Updated: **2026-04-02 02:04 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
