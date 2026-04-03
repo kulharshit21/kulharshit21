@@ -70,10 +70,10 @@ harshit = {
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **21**
+- 👤 Public Repos: **20**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-03 08:51 UTC**
+- 🕒 Last Updated: **2026-04-03 16:37 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
