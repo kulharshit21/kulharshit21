@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Two-Stage Optimizer-Aware Online Data Selection for Large Language Models](https://arxiv.org/abs/2604.00001)
-- [Task-Centric Personalized Federated Fine-Tuning of Language Models](https://arxiv.org/abs/2604.00050)
-- [Evolution Strategies for Deep RL pretraining](https://arxiv.org/abs/2604.00066)
+- [DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting](https://arxiv.org/abs/2604.01261)
+- [Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method](https://arxiv.org/abs/2604.01279)
+- [Forecasting Supply Chain Disruptions with Foresight Learning](https://arxiv.org/abs/2604.01298)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-03 02:06 UTC**
+- 🕒 Last Updated: **2026-04-03 08:51 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
