@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting](https://arxiv.org/abs/2604.01261)
-- [Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method](https://arxiv.org/abs/2604.01279)
-- [Forecasting Supply Chain Disruptions with Foresight Learning](https://arxiv.org/abs/2604.01298)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-04 01:58 UTC**
+- 🕒 Last Updated: **2026-04-04 08:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
