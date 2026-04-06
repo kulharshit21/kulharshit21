@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling](https://arxiv.org/abs/2604.02335)
+- [Generating Counterfactual Patient Timelines from Real-World Data](https://arxiv.org/abs/2604.02337)
+- [LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](https://arxiv.org/abs/2604.02338)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-06 02:13 UTC**
+- 🕒 Last Updated: **2026-04-06 09:06 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
