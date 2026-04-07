@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling](https://arxiv.org/abs/2604.02335)
-- [Generating Counterfactual Patient Timelines from Real-World Data](https://arxiv.org/abs/2604.02337)
-- [LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](https://arxiv.org/abs/2604.02338)
+- [Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation](https://arxiv.org/abs/2604.03233)
+- [Scaling DPPs for RAG: Density Meets Diversity](https://arxiv.org/abs/2604.03240)
+- [DRAFT: Task Decoupled Latent Reasoning for Agent Safety](https://arxiv.org/abs/2604.03242)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-07 02:09 UTC**
+- 🕒 Last Updated: **2026-04-07 08:59 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
