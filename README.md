@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Integrating Artificial Intelligence, Physics, and Internet of Things: A Framework for Cultural Heritage Conservation](https://arxiv.org/abs/2604.03233)
-- [Scaling DPPs for RAG: Density Meets Diversity](https://arxiv.org/abs/2604.03240)
-- [DRAFT: Task Decoupled Latent Reasoning for Agent Safety](https://arxiv.org/abs/2604.03242)
+- [A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks](https://arxiv.org/abs/2604.04971)
+- [Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive Multi-Agent PPO](https://arxiv.org/abs/2604.04983)
+- [Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model](https://arxiv.org/abs/2604.04986)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-08 02:09 UTC**
+- 🕒 Last Updated: **2026-04-08 08:58 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
