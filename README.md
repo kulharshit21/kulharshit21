@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks](https://arxiv.org/abs/2604.04971)
-- [Territory Paint Wars: Diagnosing and Mitigating Failure Modes in Competitive Multi-Agent PPO](https://arxiv.org/abs/2604.04983)
-- [Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model](https://arxiv.org/abs/2604.04986)
+- [A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset](https://arxiv.org/abs/2604.06227)
+- [Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse](https://arxiv.org/abs/2604.06228)
+- [FLeX: Fourier-based Low-rank EXpansion for multilingual transfer](https://arxiv.org/abs/2604.06253)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-09 02:02 UTC**
+- 🕒 Last Updated: **2026-04-09 09:04 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
