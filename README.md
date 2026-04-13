@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback](https://arxiv.org/abs/2604.08553)
+- [Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions](https://arxiv.org/abs/2604.08569)
+- [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-13 02:29 UTC**
+- 🕒 Last Updated: **2026-04-13 09:52 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
