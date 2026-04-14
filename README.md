@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback](https://arxiv.org/abs/2604.08553)
-- [Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions](https://arxiv.org/abs/2604.08569)
-- [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570)
+- [The Diffusion-Attention Connection](https://arxiv.org/abs/2604.09560)
+- [Fairboard: a quantitative framework for equity assessment of healthcare models](https://arxiv.org/abs/2604.09656)
+- [Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model](https://arxiv.org/abs/2604.09665)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-14 02:23 UTC**
+- 🕒 Last Updated: **2026-04-14 09:15 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
