@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [The Diffusion-Attention Connection](https://arxiv.org/abs/2604.09560)
-- [Fairboard: a quantitative framework for equity assessment of healthcare models](https://arxiv.org/abs/2604.09656)
-- [Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model](https://arxiv.org/abs/2604.09665)
+- [Uncertainty Quantification in CNN Through the Bootstrap of Convex Neural Networks](https://arxiv.org/abs/2604.11833)
+- [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://arxiv.org/abs/2604.11835)
+- [A Layer-wise Analysis of Supervised Fine-Tuning](https://arxiv.org/abs/2604.11838)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **20**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-15 02:13 UTC**
+- 🕒 Last Updated: **2026-04-15 09:16 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
