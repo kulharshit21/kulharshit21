@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Uncertainty Quantification in CNN Through the Bootstrap of Convex Neural Networks](https://arxiv.org/abs/2604.11833)
-- [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://arxiv.org/abs/2604.11835)
-- [A Layer-wise Analysis of Supervised Fine-Tuning](https://arxiv.org/abs/2604.11838)
+- [Sparse Goodness: How Selective Measurement Transforms Forward-Forward Learning](https://arxiv.org/abs/2604.13081)
+- [The Long Delay to Arithmetic Generalization: When Learned Representations Outrun Behavior](https://arxiv.org/abs/2604.13082)
+- [Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments](https://arxiv.org/abs/2604.13085)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-16 02:28 UTC**
+- 🕒 Last Updated: **2026-04-16 09:16 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
