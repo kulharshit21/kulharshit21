@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Sparse Goodness: How Selective Measurement Transforms Forward-Forward Learning](https://arxiv.org/abs/2604.13081)
-- [The Long Delay to Arithmetic Generalization: When Learned Representations Outrun Behavior](https://arxiv.org/abs/2604.13082)
-- [Adaptive Memory Crystallization for Autonomous AI Agent Learning in Dynamic Environments](https://arxiv.org/abs/2604.13085)
+- [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](https://arxiv.org/abs/2604.14176)
+- [MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining](https://arxiv.org/abs/2604.14198)
+- [Portfolio Optimization Proxies under Label Scarcity and Regime Shifts via Bayesian and Deterministic Students under Semi-Supervised Sandwich Training](https://arxiv.org/abs/2604.14206)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-17 02:24 UTC**
+- 🕒 Last Updated: **2026-04-17 09:14 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
