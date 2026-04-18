@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](https://arxiv.org/abs/2604.14176)
-- [MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining](https://arxiv.org/abs/2604.14198)
-- [Portfolio Optimization Proxies under Label Scarcity and Regime Shifts via Bayesian and Deterministic Students under Semi-Supervised Sandwich Training](https://arxiv.org/abs/2604.14206)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **21**
 - 👥 Followers: **2**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-18 02:07 UTC**
+- 🕒 Last Updated: **2026-04-18 08:45 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
