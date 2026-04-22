@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [BASIS: Balanced Activation Sketching with Invariant Scalars for "Ghost Backpropagation"](https://arxiv.org/abs/2604.16324)
-- [UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration](https://arxiv.org/abs/2604.16325)
-- [Annotation Entropy Predicts Per-Example Learning Dynamics in LoRA Fine-Tuning](https://arxiv.org/abs/2604.16332)
+- [Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](https://arxiv.org/abs/2604.18587)
+- [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](https://arxiv.org/abs/2604.18639)
+- [FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing](https://arxiv.org/abs/2604.18644)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-22 02:23 UTC**
+- 🕒 Last Updated: **2026-04-22 09:17 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
