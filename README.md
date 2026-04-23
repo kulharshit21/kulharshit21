@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](https://arxiv.org/abs/2604.18587)
-- [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](https://arxiv.org/abs/2604.18639)
-- [FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing](https://arxiv.org/abs/2604.18644)
+- [WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience](https://arxiv.org/abs/2604.19756)
+- [Transparent Screening for LLM Inference and Training Impacts](https://arxiv.org/abs/2604.19757)
+- [Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models](https://arxiv.org/abs/2604.19767)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-23 02:27 UTC**
+- 🕒 Last Updated: **2026-04-23 09:25 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
