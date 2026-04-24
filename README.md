@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience](https://arxiv.org/abs/2604.19756)
-- [Transparent Screening for LLM Inference and Training Impacts](https://arxiv.org/abs/2604.19757)
-- [Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models](https://arxiv.org/abs/2604.19767)
+- [Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance](https://arxiv.org/abs/2604.20902)
+- [Reinforcing privacy reasoning in LLMs via normative simulacra from fiction](https://arxiv.org/abs/2604.20904)
+- [Do Masked Autoencoders Improve Downhole Prediction? An Empirical Study on Real Well Drilling Data](https://arxiv.org/abs/2604.20909)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-24 02:27 UTC**
+- 🕒 Last Updated: **2026-04-24 09:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
