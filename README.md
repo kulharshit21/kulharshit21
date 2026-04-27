@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models](https://arxiv.org/abs/2604.21952)
+- [Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics](https://arxiv.org/abs/2604.21953)
+- [Conditional anomaly detection using soft harmonic functions: An application to clinical alerting](https://arxiv.org/abs/2604.21956)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-27 02:34 UTC**
+- 🕒 Last Updated: **2026-04-27 10:11 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
