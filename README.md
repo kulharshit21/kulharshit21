@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models](https://arxiv.org/abs/2604.21952)
-- [Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics](https://arxiv.org/abs/2604.21953)
-- [Conditional anomaly detection using soft harmonic functions: An application to clinical alerting](https://arxiv.org/abs/2604.21956)
+- [The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry](https://arxiv.org/abs/2604.22778)
+- [KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning](https://arxiv.org/abs/2604.22779)
+- [BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks](https://arxiv.org/abs/2604.22781)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-28 02:42 UTC**
+- 🕒 Last Updated: **2026-04-28 10:11 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
