@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry](https://arxiv.org/abs/2604.22778)
-- [KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning](https://arxiv.org/abs/2604.22779)
-- [BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks](https://arxiv.org/abs/2604.22781)
+- [GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances](https://arxiv.org/abs/2604.24766)
+- [Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion](https://arxiv.org/abs/2604.24767)
+- [Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam](https://arxiv.org/abs/2604.24768)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-29 02:42 UTC**
+- 🕒 Last Updated: **2026-04-29 10:02 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
