@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances](https://arxiv.org/abs/2604.24766)
-- [Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion](https://arxiv.org/abs/2604.24767)
-- [Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam](https://arxiv.org/abs/2604.24768)
+- [A Multimodal and Explainable Machine Learning Approach to Diagnosing Multi-Class Ejection Fraction from Electrocardiograms](https://arxiv.org/abs/2604.25942)
+- [A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions](https://arxiv.org/abs/2604.25943)
+- [A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication](https://arxiv.org/abs/2604.25972)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-04-30 02:42 UTC**
+- 🕒 Last Updated: **2026-04-30 10:04 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
