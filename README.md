@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [A Multimodal and Explainable Machine Learning Approach to Diagnosing Multi-Class Ejection Fraction from Electrocardiograms](https://arxiv.org/abs/2604.25942)
-- [A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions](https://arxiv.org/abs/2604.25943)
-- [A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication](https://arxiv.org/abs/2604.25972)
+- [Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index](https://arxiv.org/abs/2604.26984)
+- [Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985)
+- [People-Centred Medical Image Analysis](https://arxiv.org/abs/2604.26991)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **23**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-01 02:49 UTC**
+- 🕒 Last Updated: **2026-05-01 09:43 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
