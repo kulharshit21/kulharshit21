@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index](https://arxiv.org/abs/2604.26984)
-- [Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985)
-- [People-Centred Medical Image Analysis](https://arxiv.org/abs/2604.26991)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **24**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-02 02:31 UTC**
+- 🕒 Last Updated: **2026-05-02 09:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
