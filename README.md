@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](https://arxiv.org/abs/2605.00005)
+- [FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources](https://arxiv.org/abs/2605.00011)
+- [What Physics do Data-Driven MoCap-to-Radar Models Learn?](https://arxiv.org/abs/2605.00018)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **25**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-04 02:39 UTC**
+- 🕒 Last Updated: **2026-05-04 10:11 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
