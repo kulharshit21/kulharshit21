@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](https://arxiv.org/abs/2605.00005)
-- [FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources](https://arxiv.org/abs/2605.00011)
-- [What Physics do Data-Driven MoCap-to-Radar Models Learn?](https://arxiv.org/abs/2605.00018)
+- [Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling](https://arxiv.org/abs/2605.00833)
+- [Polynomial-Time Optimal Group Selection via the Double-Commutator Eigenvalue Problem](https://arxiv.org/abs/2605.00834)
+- [Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods](https://arxiv.org/abs/2605.00835)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **25**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-05 02:33 UTC**
+- 🕒 Last Updated: **2026-05-05 09:59 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
