@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling](https://arxiv.org/abs/2605.00833)
-- [Polynomial-Time Optimal Group Selection via the Double-Commutator Eigenvalue Problem](https://arxiv.org/abs/2605.00834)
-- [Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods](https://arxiv.org/abs/2605.00835)
+- [StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing](https://arxiv.org/abs/2605.02904)
+- [eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising and Quantization](https://arxiv.org/abs/2605.02905)
+- [An End-to-End Framework for Building Large Language Models for Software Operations](https://arxiv.org/abs/2605.02906)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **25**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-06 02:37 UTC**
+- 🕒 Last Updated: **2026-05-06 10:14 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
