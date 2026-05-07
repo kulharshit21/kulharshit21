@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing](https://arxiv.org/abs/2605.02904)
-- [eOptShrinkQ: Near-Lossless KV Cache Compression Through Optimal Spectral Denoising and Quantization](https://arxiv.org/abs/2605.02905)
-- [An End-to-End Framework for Building Large Language Models for Software Operations](https://arxiv.org/abs/2605.02906)
+- [Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics](https://arxiv.org/abs/2605.04054)
+- [A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay](https://arxiv.org/abs/2605.04055)
+- [Transformation Categorization Based on Group Decomposition Theory Using Parameter Division](https://arxiv.org/abs/2605.04056)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **25**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-07 02:39 UTC**
+- 🕒 Last Updated: **2026-05-07 10:22 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
