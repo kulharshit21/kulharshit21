@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics](https://arxiv.org/abs/2605.04054)
-- [A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay](https://arxiv.org/abs/2605.04055)
-- [Transformation Categorization Based on Group Decomposition Theory Using Parameter Division](https://arxiv.org/abs/2605.04056)
+- [Are Flat Minima an Illusion?](https://arxiv.org/abs/2605.05209)
+- [Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified Models](https://arxiv.org/abs/2605.05213)
+- [SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM Training with Monotonic Improvement Guarantees](https://arxiv.org/abs/2605.05216)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **26**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-08 02:44 UTC**
+- 🕒 Last Updated: **2026-05-08 09:17 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
