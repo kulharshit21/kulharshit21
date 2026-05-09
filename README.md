@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Are Flat Minima an Illusion?](https://arxiv.org/abs/2605.05209)
-- [Nationwide EHR-Based Chronic Rhinosinusitis Prediction Using Demographic-Stratified Models](https://arxiv.org/abs/2605.05213)
-- [SAT: Sequential Agent Tuning for Coordinator Free Plug and Play Multi-LLM Training with Monotonic Improvement Guarantees](https://arxiv.org/abs/2605.05216)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **26**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-09 02:38 UTC**
+- 🕒 Last Updated: **2026-05-09 09:16 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
