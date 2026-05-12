@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion Theory](https://arxiv.org/abs/2605.06675)
-- [LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction](https://arxiv.org/abs/2605.06676)
-- [A Wasserstein GAN-based climate scenario generator for risk management and insurance: the case of soil subsidence](https://arxiv.org/abs/2605.06678)
+- [Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes](https://arxiv.org/abs/2605.08098)
+- [Path-Based Gradient Boosting for Graph-Level Prediction](https://arxiv.org/abs/2605.08102)
+- [Distributional Reinforcement Learning via the Cram\'er Distance](https://arxiv.org/abs/2605.08104)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **29**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-12 02:45 UTC**
+- 🕒 Last Updated: **2026-05-12 10:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
