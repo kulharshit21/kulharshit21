@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes](https://arxiv.org/abs/2605.08098)
-- [Path-Based Gradient Boosting for Graph-Level Prediction](https://arxiv.org/abs/2605.08102)
-- [Distributional Reinforcement Learning via the Cram\'er Distance](https://arxiv.org/abs/2605.08104)
+- [Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation](https://arxiv.org/abs/2605.10947)
+- [QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization](https://arxiv.org/abs/2605.10959)
+- [Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models](https://arxiv.org/abs/2605.10971)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **29**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-13 02:51 UTC**
+- 🕒 Last Updated: **2026-05-13 10:23 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
