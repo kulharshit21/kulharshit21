@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation](https://arxiv.org/abs/2605.10947)
-- [QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization](https://arxiv.org/abs/2605.10959)
-- [Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models](https://arxiv.org/abs/2605.10971)
+- [Learning When to Act: Communication-Efficient Reinforcement Learning via Run-Time Assurance](https://arxiv.org/abs/2605.12561)
+- [CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks](https://arxiv.org/abs/2605.12580)
+- [Towards Robust Federated Multimodal Graph Learning under Modality Heterogeneity](https://arxiv.org/abs/2605.12584)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **29**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-14 02:53 UTC**
+- 🕒 Last Updated: **2026-05-14 10:12 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
