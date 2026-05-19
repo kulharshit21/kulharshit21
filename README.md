@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices](https://arxiv.org/abs/2605.15206)
-- [TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](https://arxiv.org/abs/2605.15207)
-- [Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels](https://arxiv.org/abs/2605.15208)
+- [Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra](https://arxiv.org/abs/2605.16259)
+- [Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints](https://arxiv.org/abs/2605.16262)
+- [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](https://arxiv.org/abs/2605.16302)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-05-19 02:56 UTC**
+- 🕒 Last Updated: **2026-05-19 11:14 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
