@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra](https://arxiv.org/abs/2605.16259)
-- [Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints](https://arxiv.org/abs/2605.16262)
-- [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](https://arxiv.org/abs/2605.16302)
+- [Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance](https://arxiv.org/abs/2605.18793)
+- [Robust Basis Spline Decoupling for the Compression of Transformer Models](https://arxiv.org/abs/2605.18794)
+- [HELLoRA: Hot Experts Layer-Level Low-Rank Adaptation for Mixture-of-Experts Models](https://arxiv.org/abs/2605.18795)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-20 02:57 UTC**
+- 🕒 Last Updated: **2026-05-20 10:47 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
