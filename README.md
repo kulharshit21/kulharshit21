@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance](https://arxiv.org/abs/2605.18793)
-- [Robust Basis Spline Decoupling for the Compression of Transformer Models](https://arxiv.org/abs/2605.18794)
-- [HELLoRA: Hot Experts Layer-Level Low-Rank Adaptation for Mixture-of-Experts Models](https://arxiv.org/abs/2605.18795)
+- [Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models](https://arxiv.org/abs/2605.20187)
+- [GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological Graph Priors for Medication Recommendation](https://arxiv.org/abs/2605.20188)
+- [TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data](https://arxiv.org/abs/2605.20234)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-21 03:27 UTC**
+- 🕒 Last Updated: **2026-05-21 11:19 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
