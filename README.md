@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models](https://arxiv.org/abs/2605.20187)
-- [GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological Graph Priors for Medication Recommendation](https://arxiv.org/abs/2605.20188)
-- [TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data](https://arxiv.org/abs/2605.20234)
+- [Temporal Contrastive Transformer for Financial Crime Detection: Self-Supervised Sequence Embeddings via Predictive Contrastive Coding](https://arxiv.org/abs/2605.21490)
+- [Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation](https://arxiv.org/abs/2605.21491)
+- [The Attribution Impossibility: No Feature Ranking Is Faithful, Stable, and Complete Under Collinearity](https://arxiv.org/abs/2605.21492)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-23 02:46 UTC**
+- 🕒 Last Updated: **2026-05-23 09:49 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
