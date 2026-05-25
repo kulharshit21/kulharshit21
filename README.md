@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Latent Cache Flow: Model-to-Model Communication Without Text](https://arxiv.org/abs/2605.22863)
+- [Reading Calibrated Uncertainty from Language Model Trajectories](https://arxiv.org/abs/2605.22864)
+- [FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence](https://arxiv.org/abs/2605.22868)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-25 03:35 UTC**
+- 🕒 Last Updated: **2026-05-25 11:51 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
