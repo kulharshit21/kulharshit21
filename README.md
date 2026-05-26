@@ -61,19 +61,19 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Latent Cache Flow: Model-to-Model Communication Without Text](https://arxiv.org/abs/2605.22863)
-- [Reading Calibrated Uncertainty from Language Model Trajectories](https://arxiv.org/abs/2605.22864)
-- [FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence](https://arxiv.org/abs/2605.22868)
+- [Algometrics: Forecasting Under Algorithmic Feedback](https://arxiv.org/abs/2605.23978)
+- [Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online Distributed Industrial Anomaly Detection](https://arxiv.org/abs/2605.23984)
+- [CAFD: Concept-Aware DNN Fault Detection using VLMs](https://arxiv.org/abs/2605.24008)
 <!-- ARXIV_PAPERS:END -->
 
 ---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **30**
+- 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-26 02:54 UTC**
+- 🕒 Last Updated: **2026-05-26 18:23 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
