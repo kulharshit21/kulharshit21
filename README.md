@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Algometrics: Forecasting Under Algorithmic Feedback](https://arxiv.org/abs/2605.23978)
-- [Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online Distributed Industrial Anomaly Detection](https://arxiv.org/abs/2605.23984)
-- [CAFD: Concept-Aware DNN Fault Detection using VLMs](https://arxiv.org/abs/2605.24008)
+- [GEM: Geometric Entropy Mixing for Optimal LLM Data Curation](https://arxiv.org/abs/2605.26121)
+- [The Constraint Tax: Measuring Validity-Correctness Tradeoffs in Structured Outputs for Small Language Models](https://arxiv.org/abs/2605.26128)
+- [AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion](https://arxiv.org/abs/2605.26130)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-27 03:33 UTC**
+- 🕒 Last Updated: **2026-05-27 11:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
