@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [GEM: Geometric Entropy Mixing for Optimal LLM Data Curation](https://arxiv.org/abs/2605.26121)
-- [The Constraint Tax: Measuring Validity-Correctness Tradeoffs in Structured Outputs for Small Language Models](https://arxiv.org/abs/2605.26128)
-- [AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion](https://arxiv.org/abs/2605.26130)
+- [Personalized Observation Normalization for Federated Reinforcement Learning in Simulation Environments with Heterogeneity](https://arxiv.org/abs/2605.27385)
+- [IGADA-IoT: IoT Sensor Energy Optimization in Wireless Sensor Networks Driven by Automatic Data Augmentation](https://arxiv.org/abs/2605.27397)
+- [A Simple State Space Model Excels at Multivariate Time Series Classification](https://arxiv.org/abs/2605.27406)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-28 02:53 UTC**
+- 🕒 Last Updated: **2026-05-28 11:36 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
