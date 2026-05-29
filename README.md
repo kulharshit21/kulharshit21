@@ -61,19 +61,19 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Personalized Observation Normalization for Federated Reinforcement Learning in Simulation Environments with Heterogeneity](https://arxiv.org/abs/2605.27385)
-- [IGADA-IoT: IoT Sensor Energy Optimization in Wireless Sensor Networks Driven by Automatic Data Augmentation](https://arxiv.org/abs/2605.27397)
-- [A Simple State Space Model Excels at Multivariate Time Series Classification](https://arxiv.org/abs/2605.27406)
+- [One Mask to Rule Them All: On Hidden Facts after Editing and How to Find Them](https://arxiv.org/abs/2605.28839)
+- [Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents](https://arxiv.org/abs/2605.28850)
+- [Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?](https://arxiv.org/abs/2605.28860)
 <!-- ARXIV_PAPERS:END -->
 
 ---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **31**
+- 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-05-29 02:56 UTC**
+- 🕒 Last Updated: **2026-05-29 11:25 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
