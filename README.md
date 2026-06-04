@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Human-in-the-Loop Contextual Bandits for Short-Term Rental Dynamic Pricing: Structural Equivalence of Historical Warm-Up and Approval-Gated Live Learning](https://arxiv.org/abs/2606.02595)
-- [Spectral Asymptotics of Neural Network Loss Landscapes: An Exact Decomposition of the Curvature Exponent](https://arxiv.org/abs/2606.02596)
-- [Making Brain-Computer Interfaces More Secure](https://arxiv.org/abs/2606.02597)
+- [Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset](https://arxiv.org/abs/2606.03995)
+- [Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning](https://arxiv.org/abs/2606.04028)
+- [Position: Deployed Reinforcement Learning should be Continual](https://arxiv.org/abs/2606.04029)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **30**
 - 👥 Followers: **3**
 - ⭐ Following: **4**
-- 🕒 Last Updated: **2026-06-04 03:44 UTC**
+- 🕒 Last Updated: **2026-06-04 10:58 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
