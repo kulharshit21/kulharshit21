@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Elmes*: Automated Construction of Fine-Grained Evaluation Rubrics for Large Language Models in Long-Tail Educational Scenarios](https://arxiv.org/abs/2606.06546)
-- [FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models](https://arxiv.org/abs/2606.06547)
-- [Multi-Scale Feature Attention Network for Polymer Classification using THz Dual-Comb Spectroscopy](https://arxiv.org/abs/2606.06554)
+- [Offline Reinforcement Learning for Plasma Control in Nuclear Fusion: Codebase and Benchmark](https://arxiv.org/abs/2606.07550)
+- [MedicalRec: Medical recommender system for image classification without retraining](https://arxiv.org/abs/2606.07553)
+- [SPIN: Decentralized Swarm Control via Tensorized Policy Coordination](https://arxiv.org/abs/2606.07557)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-09 02:52 UTC**
+- 🕒 Last Updated: **2026-06-09 10:57 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
