@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Offline Reinforcement Learning for Plasma Control in Nuclear Fusion: Codebase and Benchmark](https://arxiv.org/abs/2606.07550)
-- [MedicalRec: Medical recommender system for image classification without retraining](https://arxiv.org/abs/2606.07553)
-- [SPIN: Decentralized Swarm Control via Tensorized Policy Coordination](https://arxiv.org/abs/2606.07557)
+- [Mechanistic Analysis of Alignment Algorithms in Language Models](https://arxiv.org/abs/2606.09850)
+- [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](https://arxiv.org/abs/2606.09853)
+- [Uncertainty-aware Multi-fidelity Closure via Conditional Normalizing Flows](https://arxiv.org/abs/2606.09857)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-10 03:29 UTC**
+- 🕒 Last Updated: **2026-06-10 11:36 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
