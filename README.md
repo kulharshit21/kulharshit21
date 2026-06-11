@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Mechanistic Analysis of Alignment Algorithms in Language Models](https://arxiv.org/abs/2606.09850)
-- [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](https://arxiv.org/abs/2606.09853)
-- [Uncertainty-aware Multi-fidelity Closure via Conditional Normalizing Flows](https://arxiv.org/abs/2606.09857)
+- [Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation](https://arxiv.org/abs/2606.11192)
+- [To Intervene or Not: Guiding Inference-time Alignment with Probabilistic Model Blending](https://arxiv.org/abs/2606.11201)
+- [Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention](https://arxiv.org/abs/2606.11205)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-11 03:41 UTC**
+- 🕒 Last Updated: **2026-06-11 12:07 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
