@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Can Editing 1 Neuron Fix Repetition Loops in LLMs?](https://arxiv.org/abs/2606.13705)
+- [Efficient On-Device Diffusion LLM Inference with Mobile NPU](https://arxiv.org/abs/2606.13740)
+- [High-Frequency Pricing at Scale for E-Commerce](https://arxiv.org/abs/2606.13741)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-14 17:18 UTC**
+- 🕒 Last Updated: **2026-06-15 04:00 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
