@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Correct When Paired, Wrong When Split: Decoupling and Editing Modality-Specific Neurons in MLLMs](https://arxiv.org/abs/2606.17057)
-- [Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2606.17093)
-- [Informative Missingness to Generate Irregular Clinical Time Series](https://arxiv.org/abs/2606.17106)
+- [Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing](https://arxiv.org/abs/2606.18283)
+- [Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier](https://arxiv.org/abs/2606.18284)
+- [CODEBLOCK: Learning to Supervise Code at the Right Granularity](https://arxiv.org/abs/2606.18286)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **31**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-18 03:40 UTC**
+- 🕒 Last Updated: **2026-06-18 11:48 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
