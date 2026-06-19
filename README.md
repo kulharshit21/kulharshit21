@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing](https://arxiv.org/abs/2606.18283)
-- [Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier](https://arxiv.org/abs/2606.18284)
-- [CODEBLOCK: Learning to Supervise Code at the Right Granularity](https://arxiv.org/abs/2606.18286)
+- [Computational Identifiability](https://arxiv.org/abs/2606.19361)
+- [When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting](https://arxiv.org/abs/2606.19363)
+- [Closing the Social-Semantic Gap: SPSD for Edge-Based Prompt Compression in Cloud LLM Inference](https://arxiv.org/abs/2606.19364)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **32**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-18 18:24 UTC**
+- 🕒 Last Updated: **2026-06-19 04:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
