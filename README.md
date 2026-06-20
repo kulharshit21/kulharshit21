@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Computational Identifiability](https://arxiv.org/abs/2606.19361)
-- [When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting](https://arxiv.org/abs/2606.19363)
-- [Closing the Social-Semantic Gap: SPSD for Edge-Based Prompt Compression in Cloud LLM Inference](https://arxiv.org/abs/2606.19364)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-20 03:26 UTC**
+- 🕒 Last Updated: **2026-06-20 10:30 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
