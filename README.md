@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Towards CSI-Native Foundation Models: A Channel-Adaptive Roadmap for 6G](https://arxiv.org/abs/2606.20670)
+- [NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication](https://arxiv.org/abs/2606.20673)
+- [Massive Activations Are Architecturally Robust: A Controlled Scratch/Commitment Residual Stream Test](https://arxiv.org/abs/2606.20743)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-23 02:56 UTC**
+- 🕒 Last Updated: **2026-06-23 11:13 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
