@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Towards CSI-Native Foundation Models: A Channel-Adaptive Roadmap for 6G](https://arxiv.org/abs/2606.20670)
-- [NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication](https://arxiv.org/abs/2606.20673)
-- [Massive Activations Are Architecturally Robust: A Controlled Scratch/Commitment Residual Stream Test](https://arxiv.org/abs/2606.20743)
+- [Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search](https://arxiv.org/abs/2606.23739)
+- [Weight-Space Geometry of Offline Reasoning Training](https://arxiv.org/abs/2606.23740)
+- [A Survey on Federated Causal Discovery and Inference](https://arxiv.org/abs/2606.23741)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-24 02:57 UTC**
+- 🕒 Last Updated: **2026-06-24 10:45 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
