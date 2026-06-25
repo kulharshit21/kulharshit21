@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search](https://arxiv.org/abs/2606.23739)
-- [Weight-Space Geometry of Offline Reasoning Training](https://arxiv.org/abs/2606.23740)
-- [A Survey on Federated Causal Discovery and Inference](https://arxiv.org/abs/2606.23741)
+- [Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models](https://arxiv.org/abs/2606.24898)
+- [From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms](https://arxiv.org/abs/2606.24899)
+- [On-Device Neural Architecture Search](https://arxiv.org/abs/2606.24900)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-25 02:56 UTC**
+- 🕒 Last Updated: **2026-06-25 10:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
