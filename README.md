@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections](https://arxiv.org/abs/2606.27381)
+- [RANSAC Scoring Done Right](https://arxiv.org/abs/2606.27385)
+- [Unified Zero-Shot Time Series Forecasting: A Darts Foundation](https://arxiv.org/abs/2606.27438)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-06-29 03:38 UTC**
+- 🕒 Last Updated: **2026-06-29 12:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
