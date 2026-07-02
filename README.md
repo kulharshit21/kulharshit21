@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization](https://arxiv.org/abs/2606.30699)
-- [Accelerometry-Derived Digital Biomarkers for Cardiometabolic Risk: A Population-Representative Tabular Benchmark with Uncertainty Quantification](https://arxiv.org/abs/2606.30702)
-- [From Search to Synthesis: Training LLMs as Zero-Shot Workflow Generators](https://arxiv.org/abs/2606.30704)
+- [Representation as a Bottleneck for Mechanistic Interpretability: The Manifestation Unit Protocol](https://arxiv.org/abs/2607.00089)
+- [SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095)
+- [SemiScope: Disentangling Classifier Tuning and Joint Optimization in Semi-Supervised Security Classification](https://arxiv.org/abs/2607.00113)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **3**
 - ⭐ Following: **5**
-- 🕒 Last Updated: **2026-07-02 02:58 UTC**
+- 🕒 Last Updated: **2026-07-02 10:34 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
