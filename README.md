@@ -71,9 +71,9 @@ harshit = {
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
 - 👤 Public Repos: **33**
-- 👥 Followers: **3**
-- ⭐ Following: **5**
-- 🕒 Last Updated: **2026-07-02 17:43 UTC**
+- 👥 Followers: **4**
+- ⭐ Following: **6**
+- 🕒 Last Updated: **2026-07-03 02:42 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
