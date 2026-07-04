@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability](https://arxiv.org/abs/2607.01278)
-- [I	extsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals](https://arxiv.org/abs/2607.01279)
-- [Fixed-Set Robustness in Programming by Example: Example Corruption and Semantic Partition Recovery](https://arxiv.org/abs/2607.01280)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-04 02:38 UTC**
+- 🕒 Last Updated: **2026-07-04 10:06 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
