@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits](https://arxiv.org/abs/2607.02586)
-- [Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Distributional Shifts, and Covariate Dependence](https://arxiv.org/abs/2607.02623)
-- [QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting](https://arxiv.org/abs/2607.02632)
+- [Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence](https://arxiv.org/abs/2607.05436)
+- [Design-CP: Context Parallelism for Design of Protein Nanoparticles](https://arxiv.org/abs/2607.05439)
+- [Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction](https://arxiv.org/abs/2607.05449)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **33**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-08 02:27 UTC**
+- 🕒 Last Updated: **2026-07-08 10:13 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
