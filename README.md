@@ -61,19 +61,19 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation](https://arxiv.org/abs/2607.06601)
-- [A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It](https://arxiv.org/abs/2607.06605)
-- [NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts](https://arxiv.org/abs/2607.06607)
+- [Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](https://arxiv.org/abs/2607.07716)
+- [Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification](https://arxiv.org/abs/2607.07717)
+- [LLT: Local Linear Transformer for PDE Operator Learning](https://arxiv.org/abs/2607.07718)
 <!-- ARXIV_PAPERS:END -->
 
 ---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **33**
+- 👤 Public Repos: **34**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-10 02:45 UTC**
+- 🕒 Last Updated: **2026-07-10 10:50 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
