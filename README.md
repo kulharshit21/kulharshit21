@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey](https://arxiv.org/abs/2607.09666)
-- [Position: Every Ground Truth is a Human Construction, not an Objective Truth](https://arxiv.org/abs/2607.09668)
-- [AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows](https://arxiv.org/abs/2607.09682)
+- [OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes](https://arxiv.org/abs/2607.11896)
+- [Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels](https://arxiv.org/abs/2607.11897)
+- [Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2607.11928)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-15 02:09 UTC**
+- 🕒 Last Updated: **2026-07-15 09:59 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
