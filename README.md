@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes](https://arxiv.org/abs/2607.11896)
-- [Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels](https://arxiv.org/abs/2607.11897)
-- [Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2607.11928)
+- [Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks](https://arxiv.org/abs/2607.13042)
+- [Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning](https://arxiv.org/abs/2607.13043)
+- [Federated Explainable Artificial Intelligence: Roles, Architectures, Evaluation, and Open Challenges](https://arxiv.org/abs/2607.13045)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-16 02:22 UTC**
+- 🕒 Last Updated: **2026-07-16 10:05 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
