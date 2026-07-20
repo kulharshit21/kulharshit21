@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Structure of the Circular-Dyadic Convolution Error](https://arxiv.org/abs/2607.15293)
+- [Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling](https://arxiv.org/abs/2607.15313)
+- [A Transportable Threshold-Based Framework for Interpretable Classification of Medical Data](https://arxiv.org/abs/2607.15394)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-20 02:42 UTC**
+- 🕒 Last Updated: **2026-07-20 10:48 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
