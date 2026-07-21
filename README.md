@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Structure of the Circular-Dyadic Convolution Error](https://arxiv.org/abs/2607.15293)
-- [Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling](https://arxiv.org/abs/2607.15313)
-- [A Transportable Threshold-Based Framework for Interpretable Classification of Medical Data](https://arxiv.org/abs/2607.15394)
+- [Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization](https://arxiv.org/abs/2607.16194)
+- [DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth](https://arxiv.org/abs/2607.16203)
+- [Fully-sensorized smart-eyewear platform for on-device Machine Learning](https://arxiv.org/abs/2607.16222)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-21 02:26 UTC**
+- 🕒 Last Updated: **2026-07-21 10:22 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
