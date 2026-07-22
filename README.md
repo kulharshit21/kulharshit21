@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization](https://arxiv.org/abs/2607.16194)
-- [DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth](https://arxiv.org/abs/2607.16203)
-- [Fully-sensorized smart-eyewear platform for on-device Machine Learning](https://arxiv.org/abs/2607.16222)
+- [FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration](https://arxiv.org/abs/2607.18278)
+- [Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification](https://arxiv.org/abs/2607.18279)
+- [Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large Language Models](https://arxiv.org/abs/2607.18280)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-22 02:24 UTC**
+- 🕒 Last Updated: **2026-07-22 10:22 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
