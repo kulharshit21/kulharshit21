@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration](https://arxiv.org/abs/2607.18278)
-- [Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification](https://arxiv.org/abs/2607.18279)
-- [Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large Language Models](https://arxiv.org/abs/2607.18280)
+- [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](https://arxiv.org/abs/2607.19378)
+- [Bayesian Wind Tunnels for Model Selection](https://arxiv.org/abs/2607.19379)
+- [CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction](https://arxiv.org/abs/2607.19380)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-23 02:29 UTC**
+- 🕒 Last Updated: **2026-07-23 10:19 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
