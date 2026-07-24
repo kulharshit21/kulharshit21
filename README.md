@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](https://arxiv.org/abs/2607.19378)
-- [Bayesian Wind Tunnels for Model Selection](https://arxiv.org/abs/2607.19379)
-- [CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction](https://arxiv.org/abs/2607.19380)
+- [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](https://arxiv.org/abs/2607.20465)
+- [PhantomFill: When the Form Demands an Answer, Language Models Invent One](https://arxiv.org/abs/2607.20492)
+- [The Active Ingredient in Muon's Grokking](https://arxiv.org/abs/2607.20512)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-24 02:26 UTC**
+- 🕒 Last Updated: **2026-07-24 10:13 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
