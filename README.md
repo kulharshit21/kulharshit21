@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees](https://arxiv.org/abs/2607.21623)
+- [On the Depth Scalability of Logic Gate Networks](https://arxiv.org/abs/2607.21633)
+- [MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion](https://arxiv.org/abs/2607.21634)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-27 02:39 UTC**
+- 🕒 Last Updated: **2026-07-27 11:16 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
