@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees](https://arxiv.org/abs/2607.21623)
-- [On the Depth Scalability of Logic Gate Networks](https://arxiv.org/abs/2607.21633)
-- [MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion](https://arxiv.org/abs/2607.21634)
+- [Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B](https://arxiv.org/abs/2607.22545)
+- [CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents](https://arxiv.org/abs/2607.22711)
+- [CausalGate: Causal Importance Distillation for Transformer Module Pruning](https://arxiv.org/abs/2607.22720)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-28 02:14 UTC**
+- 🕒 Last Updated: **2026-07-28 10:31 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
