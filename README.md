@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B](https://arxiv.org/abs/2607.22545)
-- [CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents](https://arxiv.org/abs/2607.22711)
-- [CausalGate: Causal Importance Distillation for Transformer Module Pruning](https://arxiv.org/abs/2607.22720)
+- [FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting](https://arxiv.org/abs/2607.24875)
+- [Human Preference aligned Tabular Similarity](https://arxiv.org/abs/2607.24880)
+- [Behavior-Driven Explainability](https://arxiv.org/abs/2607.24881)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-29 02:23 UTC**
+- 🕒 Last Updated: **2026-07-29 10:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
