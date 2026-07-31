@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning](https://arxiv.org/abs/2607.26059)
-- [Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football](https://arxiv.org/abs/2607.26061)
-- [Meta-Learned Reward Shaping for Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2607.26094)
+- [Recursive transformers for semiconductor thermo-mechanical reliability](https://arxiv.org/abs/2607.27251)
+- [Regularizing modality contribution drift in multimodal continual learning](https://arxiv.org/abs/2607.27260)
+- [DoTime: A Synthetic Benchmark Generator for Interventional and Counterfactual Time Series](https://arxiv.org/abs/2607.27263)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-07-31 02:33 UTC**
+- 🕒 Last Updated: **2026-07-31 10:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
