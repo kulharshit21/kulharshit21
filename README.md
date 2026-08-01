@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Recursive transformers for semiconductor thermo-mechanical reliability](https://arxiv.org/abs/2607.27251)
-- [Regularizing modality contribution drift in multimodal continual learning](https://arxiv.org/abs/2607.27260)
-- [DoTime: A Synthetic Benchmark Generator for Interventional and Counterfactual Time Series](https://arxiv.org/abs/2607.27263)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-01 02:32 UTC**
+- 🕒 Last Updated: **2026-08-01 16:55 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
