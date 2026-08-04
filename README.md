@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Topology-Aware Data Movement for Disaggregated GPU Inference](https://arxiv.org/abs/2607.28633)
-- [Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems](https://arxiv.org/abs/2607.28665)
-- [Guarantees on Dynamical System Distinguishability for LLM Token Generation](https://arxiv.org/abs/2607.28667)
+- [Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models](https://arxiv.org/abs/2608.00019)
+- [Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark](https://arxiv.org/abs/2608.00106)
+- [MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing](https://arxiv.org/abs/2608.00107)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-04 02:12 UTC**
+- 🕒 Last Updated: **2026-08-04 10:34 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
