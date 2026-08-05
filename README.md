@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models](https://arxiv.org/abs/2608.00019)
-- [Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark](https://arxiv.org/abs/2608.00106)
-- [MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing](https://arxiv.org/abs/2608.00107)
+- [Deep Divide-and-Reduce in Symbolic Regression](https://arxiv.org/abs/2608.02628)
+- [Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage](https://arxiv.org/abs/2608.02629)
+- [LLMs Can Annotate Attribution Graphs](https://arxiv.org/abs/2608.02632)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-05 02:11 UTC**
+- 🕒 Last Updated: **2026-08-05 10:30 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
