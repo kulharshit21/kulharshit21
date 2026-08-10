@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417)
+- [Risk-Aware Decision Policies for Agents Under Noisy Perception](https://arxiv.org/abs/2608.06420)
+- [Sharding Prevents LLM Oversight Failures and Adversarial Exploitation](https://arxiv.org/abs/2608.06422)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-10 01:26 UTC**
+- 🕒 Last Updated: **2026-08-10 09:15 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
