@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Latent Fact-Checking: Detecting Misinformation through Activation Engineering](https://arxiv.org/abs/2608.06417)
-- [Risk-Aware Decision Policies for Agents Under Noisy Perception](https://arxiv.org/abs/2608.06420)
-- [Sharding Prevents LLM Oversight Failures and Adversarial Exploitation](https://arxiv.org/abs/2608.06422)
+- [Application of Artificial Intelligence for Fraudulent Banking Operations Recognition](https://arxiv.org/abs/2608.07471)
+- [Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction](https://arxiv.org/abs/2608.07472)
+- [Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards](https://arxiv.org/abs/2608.07535)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-11 01:24 UTC**
+- 🕒 Last Updated: **2026-08-11 08:50 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
