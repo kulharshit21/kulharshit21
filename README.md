@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Application of Artificial Intelligence for Fraudulent Banking Operations Recognition](https://arxiv.org/abs/2608.07471)
-- [Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction](https://arxiv.org/abs/2608.07472)
-- [Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards](https://arxiv.org/abs/2608.07535)
+- [Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory](https://arxiv.org/abs/2608.09997)
+- [Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification](https://arxiv.org/abs/2608.10007)
+- [CurveFP: Rational-Radix Logarithmic Datatypes with Closed Products for Language Models](https://arxiv.org/abs/2608.10010)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-12 01:41 UTC**
+- 🕒 Last Updated: **2026-08-12 09:07 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
