@@ -63,7 +63,7 @@ harshit = {
 <!-- ARXIV_PAPERS:START -->
 - [Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory](https://arxiv.org/abs/2608.09997)
 - [Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification](https://arxiv.org/abs/2608.10007)
-- [CurveFP: Rational-Radix Logarithmic Datatypes with Closed Products for Language Models](https://arxiv.org/abs/2608.10010)
+- [CurveFP: Co-Designing Numerical Representation and Product Arithmetic for Language Models](https://arxiv.org/abs/2608.10010)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-12 16:54 UTC**
+- 🕒 Last Updated: **2026-08-13 01:44 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
