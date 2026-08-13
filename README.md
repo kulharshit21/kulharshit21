@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory](https://arxiv.org/abs/2608.09997)
-- [Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification](https://arxiv.org/abs/2608.10007)
-- [CurveFP: Co-Designing Numerical Representation and Product Arithmetic for Language Models](https://arxiv.org/abs/2608.10010)
+- [FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting](https://arxiv.org/abs/2608.11254)
+- [Why AI Detection Fails for Academic Integrity](https://arxiv.org/abs/2608.11256)
+- [Basin: Efficient and Extensible Numerical Optimization in Rust](https://arxiv.org/abs/2608.11279)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-13 01:44 UTC**
+- 🕒 Last Updated: **2026-08-13 09:08 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
