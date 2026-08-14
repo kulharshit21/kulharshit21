@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting](https://arxiv.org/abs/2608.11254)
-- [Why AI Detection Fails for Academic Integrity](https://arxiv.org/abs/2608.11256)
-- [Basin: Efficient and Extensible Numerical Optimization in Rust](https://arxiv.org/abs/2608.11279)
+- [LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](https://arxiv.org/abs/2608.12419)
+- [Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods](https://arxiv.org/abs/2608.12422)
+- [MARCH: Scaling Recurrent Memory with Content-Routed State Anchors](https://arxiv.org/abs/2608.12435)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-14 01:42 UTC**
+- 🕒 Last Updated: **2026-08-14 09:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
