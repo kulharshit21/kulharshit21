@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics](https://arxiv.org/abs/2608.13562)
+- [Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required](https://arxiv.org/abs/2608.13566)
+- [Robust XGBoosting for Regression](https://arxiv.org/abs/2608.13590)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-17 01:04 UTC**
+- 🕒 Last Updated: **2026-08-17 08:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
