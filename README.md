@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics](https://arxiv.org/abs/2608.13562)
-- [Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required](https://arxiv.org/abs/2608.13566)
-- [Robust XGBoosting for Regression](https://arxiv.org/abs/2608.13590)
+- [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc](https://arxiv.org/abs/2608.14556)
+- [Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)](https://arxiv.org/abs/2608.14563)
+- [Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems](https://arxiv.org/abs/2608.14570)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-18 01:02 UTC**
+- 🕒 Last Updated: **2026-08-18 08:32 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
