@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc](https://arxiv.org/abs/2608.14556)
-- [Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)](https://arxiv.org/abs/2608.14563)
-- [Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems](https://arxiv.org/abs/2608.14570)
+- [Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data](https://arxiv.org/abs/2608.16913)
+- [Detecting and Discriminating Operator Misspecification in Hybrid PDE-Parameter Learning: a Reference-Free Instrument, with Discrimination Bounded In Sample](https://arxiv.org/abs/2608.16925)
+- [Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training](https://arxiv.org/abs/2608.16926)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-20 01:03 UTC**
+- 🕒 Last Updated: **2026-08-20 08:33 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
