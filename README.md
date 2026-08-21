@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data](https://arxiv.org/abs/2608.16913)
-- [Detecting and Discriminating Operator Misspecification in Hybrid PDE-Parameter Learning: a Reference-Free Instrument, with Discrimination Bounded In Sample](https://arxiv.org/abs/2608.16925)
-- [Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training](https://arxiv.org/abs/2608.16926)
+- [Towards On-Board Implementation of ML-Based Helicopter Weight Estimator](https://arxiv.org/abs/2608.19210)
+- [Triangular Fuzzy Rescaling Distance](https://arxiv.org/abs/2608.19234)
+- [Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis](https://arxiv.org/abs/2608.19297)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **35**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-21 01:06 UTC**
+- 🕒 Last Updated: **2026-08-21 08:36 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
