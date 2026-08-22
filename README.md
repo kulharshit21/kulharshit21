@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Towards On-Board Implementation of ML-Based Helicopter Weight Estimator](https://arxiv.org/abs/2608.19210)
-- [Triangular Fuzzy Rescaling Distance](https://arxiv.org/abs/2608.19234)
-- [Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis](https://arxiv.org/abs/2608.19297)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,9 +69,9 @@ harshit = {
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
 - 👤 Public Repos: **35**
-- 👥 Followers: **5**
+- 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-22 01:02 UTC**
+- 🕒 Last Updated: **2026-08-22 16:19 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
