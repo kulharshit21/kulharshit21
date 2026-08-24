@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](https://arxiv.org/abs/2608.20343)
+- [Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study](https://arxiv.org/abs/2608.20406)
+- [From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing](https://arxiv.org/abs/2608.20423)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-24 01:05 UTC**
+- 🕒 Last Updated: **2026-08-24 08:43 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
