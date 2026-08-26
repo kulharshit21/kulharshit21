@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Model of Models: When Does Emitting a Specialist Beat Attending, Adapting, or Tuning?](https://arxiv.org/abs/2608.21386)
-- [Runtime Action Interference for AI Control of AlphaStar in StarCraft II](https://arxiv.org/abs/2608.21398)
-- [Federated Ensemble Forecasting Under Supply-Chain Market Volatility](https://arxiv.org/abs/2608.21399)
+- [Equivariant Cellular Sheaves for Molecular Electronic Structure: Bridging Sheaf Cohomology and E(3)-Equivariant Hamiltonian Learning](https://arxiv.org/abs/2608.23571)
+- [Data Predictability Shapes Weibull Weight-Scale Growth in Transformer Training](https://arxiv.org/abs/2608.23573)
+- [From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers](https://arxiv.org/abs/2608.23660)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-26 01:06 UTC**
+- 🕒 Last Updated: **2026-08-26 08:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
