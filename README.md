@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Equivariant Cellular Sheaves for Molecular Electronic Structure: Bridging Sheaf Cohomology and E(3)-Equivariant Hamiltonian Learning](https://arxiv.org/abs/2608.23571)
-- [Data Predictability Shapes Weibull Weight-Scale Growth in Transformer Training](https://arxiv.org/abs/2608.23573)
-- [From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers](https://arxiv.org/abs/2608.23660)
+- [Dynamic Influence-Weighted Distillation for Single-IMU Activity Recognition](https://arxiv.org/abs/2608.24904)
+- [GreenLeaf Law Embed Tiny: A Compact Embedding Model for Legal Domain Retrieval](https://arxiv.org/abs/2608.24936)
+- [Multi-Modal Anomaly Detection: A Survey](https://arxiv.org/abs/2608.24937)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-26 16:45 UTC**
+- 🕒 Last Updated: **2026-08-27 07:12 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
