@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Dynamic Influence-Weighted Distillation for Single-IMU Activity Recognition](https://arxiv.org/abs/2608.24904)
-- [GreenLeaf Law Embed Tiny: A Compact Embedding Model for Legal Domain Retrieval](https://arxiv.org/abs/2608.24936)
-- [Multi-Modal Anomaly Detection: A Survey](https://arxiv.org/abs/2608.24937)
+- [SLM-Conditioned Hierarchical Relation Routing for Labeled Property Graph Learning](https://arxiv.org/abs/2608.26132)
+- [NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation](https://arxiv.org/abs/2608.26222)
+- [Pruning Binarized Neural Networks: A Dedicated Framework and Globally Weighted Algorithms](https://arxiv.org/abs/2608.26233)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-08-27 18:48 UTC**
+- 🕒 Last Updated: **2026-08-28 09:25 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
