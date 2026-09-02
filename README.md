@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning](https://arxiv.org/abs/2608.28771)
-- [Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching](https://arxiv.org/abs/2608.28840)
-- [Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks](https://arxiv.org/abs/2608.28843)
+- [Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training](https://arxiv.org/abs/2609.00047)
+- [REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent](https://arxiv.org/abs/2609.00049)
+- [Convergence issues in Relational Concept Analysis based on AOC-posets](https://arxiv.org/abs/2609.00054)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-02 02:47 UTC**
+- 🕒 Last Updated: **2026-09-02 12:30 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
