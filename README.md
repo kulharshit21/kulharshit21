@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling](https://arxiv.org/abs/2609.01608)
-- [DiDrive: A Risk-Aware Hierarchical Diffusion Framework for Safe Offline Reinforcement Learning in Autonomous Driving](https://arxiv.org/abs/2609.01609)
-- [Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result](https://arxiv.org/abs/2609.01615)
+- [The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors](https://arxiv.org/abs/2609.02959)
+- [Equation Recast for Canonical Operator Learning Across Parametric PDEs](https://arxiv.org/abs/2609.02982)
+- [From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning](https://arxiv.org/abs/2609.02984)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-04 02:51 UTC**
+- 🕒 Last Updated: **2026-09-04 12:28 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
