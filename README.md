@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning](https://arxiv.org/abs/2609.05435)
-- [When Do Options Help? Policy Necrosis and Redundant Coverage in Option-Critic](https://arxiv.org/abs/2609.05508)
-- [Multi-granularity Adaptive Hypergraph Representation Learning via Granular-ball](https://arxiv.org/abs/2609.05574)
+- [M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction](https://arxiv.org/abs/2609.10559)
+- [Halo: Improving forecast accuracy through heteroscedastic estimation](https://arxiv.org/abs/2609.10589)
+- [Zero-shot rib design: merging training-free generative prior with topology optimization](https://arxiv.org/abs/2609.10643)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-10 03:00 UTC**
+- 🕒 Last Updated: **2026-09-11 12:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
