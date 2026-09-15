@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems](https://arxiv.org/abs/2609.11934)
-- [Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators](https://arxiv.org/abs/2609.11935)
-- [Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning](https://arxiv.org/abs/2609.11937)
+- [BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents](https://arxiv.org/abs/2609.13149)
+- [A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training](https://arxiv.org/abs/2609.13171)
+- [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-15 03:19 UTC**
+- 🕒 Last Updated: **2026-09-15 13:06 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
