@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents](https://arxiv.org/abs/2609.13149)
-- [A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training](https://arxiv.org/abs/2609.13171)
-- [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182)
+- [Causal neural set filtering for online multi-target tracking](https://arxiv.org/abs/2609.16054)
+- [Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents](https://arxiv.org/abs/2609.16056)
+- [OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning](https://arxiv.org/abs/2609.16057)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-16 03:15 UTC**
+- 🕒 Last Updated: **2026-09-16 13:05 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
