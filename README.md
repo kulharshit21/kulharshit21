@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds](https://arxiv.org/abs/2609.17560)
-- [Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs](https://arxiv.org/abs/2609.17564)
-- [Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch](https://arxiv.org/abs/2609.17571)
+- [Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment](https://arxiv.org/abs/2609.19209)
+- [Layer-wise Curriculum Learning for Efficient LLM Compression](https://arxiv.org/abs/2609.19213)
+- [Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training](https://arxiv.org/abs/2609.19242)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-17 19:30 UTC**
+- 🕒 Last Updated: **2026-09-18 12:40 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
