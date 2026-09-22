@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Sparse Priors for Efficient Distribution Learning](https://arxiv.org/abs/2609.20883)
-- [BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence](https://arxiv.org/abs/2609.20886)
-- [Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding](https://arxiv.org/abs/2609.20888)
+- [PRQuant: Permutation Residual Quantization for Low-Overhead Inference](https://arxiv.org/abs/2609.22106)
+- [Generalized Multimodal Foundation Model](https://arxiv.org/abs/2609.22107)
+- [Correcting Learning-based Perception for Safety](https://arxiv.org/abs/2609.22108)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-22 03:14 UTC**
+- 🕒 Last Updated: **2026-09-22 13:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
