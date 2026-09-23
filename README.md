@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [PRQuant: Permutation Residual Quantization for Low-Overhead Inference](https://arxiv.org/abs/2609.22106)
-- [Generalized Multimodal Foundation Model](https://arxiv.org/abs/2609.22107)
-- [Correcting Learning-based Perception for Safety](https://arxiv.org/abs/2609.22108)
+- ["As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It](https://arxiv.org/abs/2609.25021)
+- [Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach](https://arxiv.org/abs/2609.25082)
+- [Entropy Can Flow, or It Can Guide. Be Entropy. LEDFlow: Introducing Entropy-guided Generation Order into Uniform Discrete Flow](https://arxiv.org/abs/2609.25131)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-23 03:14 UTC**
+- 🕒 Last Updated: **2026-09-23 13:20 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
