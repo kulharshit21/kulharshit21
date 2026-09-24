@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- ["As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It](https://arxiv.org/abs/2609.25021)
-- [Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach](https://arxiv.org/abs/2609.25082)
-- [Entropy Can Flow, or It Can Guide. Be Entropy. LEDFlow: Introducing Entropy-guided Generation Order into Uniform Discrete Flow](https://arxiv.org/abs/2609.25131)
+- [The Drift Contract: Spectral Updates for Depth-Robust Local Learning](https://arxiv.org/abs/2609.26811)
+- [Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection](https://arxiv.org/abs/2609.26820)
+- [HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe Forecasting](https://arxiv.org/abs/2609.26822)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-24 03:05 UTC**
+- 🕒 Last Updated: **2026-09-24 13:09 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
