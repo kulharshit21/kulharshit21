@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [The Drift Contract: Spectral Updates for Depth-Robust Local Learning](https://arxiv.org/abs/2609.26811)
-- [Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection](https://arxiv.org/abs/2609.26820)
-- [HARN: Hierarchical Associative Resonance Network for Event-Driven Multi-Timeframe Forecasting](https://arxiv.org/abs/2609.26822)
+- [Stable and Faithful Explanations for Knowledge Tracing](https://arxiv.org/abs/2609.28502)
+- [SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion](https://arxiv.org/abs/2609.28553)
+- [CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation](https://arxiv.org/abs/2609.28558)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-25 03:21 UTC**
+- 🕒 Last Updated: **2026-09-25 13:13 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
