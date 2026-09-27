@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Stable and Faithful Explanations for Knowledge Tracing](https://arxiv.org/abs/2609.28502)
-- [SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion](https://arxiv.org/abs/2609.28553)
-- [CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation](https://arxiv.org/abs/2609.28558)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-27 03:35 UTC**
+- 🕒 Last Updated: **2026-09-27 13:30 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
