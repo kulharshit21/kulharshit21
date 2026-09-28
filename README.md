@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference](https://arxiv.org/abs/2609.30270)
+- [When the Preconditioning Exponent Turns Negative: Learning-Rate Coupling and Cross-Environment Generalization](https://arxiv.org/abs/2609.30271)
+- [ENAS: An Efficient Hardware-Aware Neural Architecture Search Framework for TinyML on Resource-Constrained Microcontrollers](https://arxiv.org/abs/2609.30272)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-28 03:33 UTC**
+- 🕒 Last Updated: **2026-09-28 16:25 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
