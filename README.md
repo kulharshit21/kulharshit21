@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase](https://arxiv.org/abs/2609.31630)
+- [OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit](https://arxiv.org/abs/2609.31631)
+- [EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis](https://arxiv.org/abs/2609.31632)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-29 04:08 UTC**
+- 🕒 Last Updated: **2026-09-29 14:35 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
