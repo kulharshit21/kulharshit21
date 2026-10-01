@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase](https://arxiv.org/abs/2609.31630)
-- [OMP-MoE: Efficient Expert Pruning for Mixture-of-Experts LLMs via Orthogonal Matching Pursuit](https://arxiv.org/abs/2609.31631)
-- [EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis](https://arxiv.org/abs/2609.31632)
+- [Travel Time Prediction in Supply Chain Management Using Machine Learning](https://arxiv.org/abs/2609.38190)
+- [EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents](https://arxiv.org/abs/2609.38193)
+- [A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees](https://arxiv.org/abs/2609.38194)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-09-30 20:30 UTC**
+- 🕒 Last Updated: **2026-10-01 04:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
