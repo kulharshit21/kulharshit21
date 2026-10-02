@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Travel Time Prediction in Supply Chain Management Using Machine Learning](https://arxiv.org/abs/2609.38190)
-- [EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents](https://arxiv.org/abs/2609.38193)
-- [A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees](https://arxiv.org/abs/2609.38194)
+- [Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices](https://arxiv.org/abs/2610.00002)
+- [How Far is Adam from Natural Gradient Descent?](https://arxiv.org/abs/2610.00004)
+- [FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law](https://arxiv.org/abs/2610.00009)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-02 03:59 UTC**
+- 🕒 Last Updated: **2026-10-02 14:25 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
