@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices](https://arxiv.org/abs/2610.00002)
-- [How Far is Adam from Natural Gradient Descent?](https://arxiv.org/abs/2610.00004)
-- [FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law](https://arxiv.org/abs/2610.00009)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-03 03:44 UTC**
+- 🕒 Last Updated: **2026-10-03 13:00 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
