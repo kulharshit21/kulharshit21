@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Hybrid Machine Learning-Assisted Raman Spectroscopy with Generative Feature Augmentation for Pharmaceutical Identification](https://arxiv.org/abs/2610.02224)
+- [The Price of Greenwashing: Algorithmic Verification and Market Discipline using Conformal Machine Learning](https://arxiv.org/abs/2610.02225)
+- [State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting](https://arxiv.org/abs/2610.02248)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-05 03:58 UTC**
+- 🕒 Last Updated: **2026-10-05 16:46 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
