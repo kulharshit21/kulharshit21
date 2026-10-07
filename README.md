@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems?](https://arxiv.org/abs/2610.03769)
-- [Least Squares for Time Series Forecasting](https://arxiv.org/abs/2610.03812)
-- [Memory-State Critic for Asymmetric Actor-Critic with Application to Vision-Based Pursuit-Evasion](https://arxiv.org/abs/2610.03830)
+- [TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning](https://arxiv.org/abs/2610.06855)
+- [When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO](https://arxiv.org/abs/2610.06861)
+- [Neutrosophic Ensemble Classification for Uncertainty-Aware Bearing Fault Detection: Evidence from Laboratory and Variable-Speed Industrial Benchmarks](https://arxiv.org/abs/2610.06880)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-06 20:46 UTC**
+- 🕒 Last Updated: **2026-10-07 04:14 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
