@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression](https://arxiv.org/abs/2610.10552)
-- [SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction](https://arxiv.org/abs/2610.10571)
-- [Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs](https://arxiv.org/abs/2610.10594)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **36**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-09 20:31 UTC**
+- 🕒 Last Updated: **2026-10-10 04:15 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
