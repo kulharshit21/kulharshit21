@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Algebraic Integer Quantization for Machine Learning Applications](https://arxiv.org/abs/2610.12494)
-- [Kairos: Toward a Byte-Level Foundation Model for Every Modality](https://arxiv.org/abs/2610.12495)
-- [An Input-Dependent Readout Phase for Resonant Sequence Models](https://arxiv.org/abs/2610.12496)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-12 17:19 UTC**
+- 🕒 Last Updated: **2026-10-13 05:24 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
