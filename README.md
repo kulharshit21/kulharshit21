@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [MDN-VJEPA: Multimodal Probabilistic Joint-Embedding World Models](https://arxiv.org/abs/2610.13956)
-- [LACRM: LLM-Guided Mining of Directed Advertiser Competition Relationships in E-Commerce Advertising](https://arxiv.org/abs/2610.13959)
-- [MRFlow: Mechanism-Structured Residual Flow Matching for Virtual Cell Perturbation Prediction](https://arxiv.org/abs/2610.13966)
+- [Lotus: Learning to Understand Time-series by Learning to Forecast](https://arxiv.org/abs/2610.18877)
+- [Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data](https://arxiv.org/abs/2610.18878)
+- [Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders](https://arxiv.org/abs/2610.18879)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-15 03:07 UTC**
+- 🕒 Last Updated: **2026-10-15 13:02 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
