@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Lotus: Learning to Understand Time-series by Learning to Forecast](https://arxiv.org/abs/2610.18877)
-- [Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data](https://arxiv.org/abs/2610.18878)
-- [Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders](https://arxiv.org/abs/2610.18879)
+- [FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models](https://arxiv.org/abs/2610.20636)
+- [Expanding Attention: A Taylor-Series Route to Linear-Time Transformers with a Fixed Number of Recurrent States](https://arxiv.org/abs/2610.20637)
+- [Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs](https://arxiv.org/abs/2610.20638)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-16 03:03 UTC**
+- 🕒 Last Updated: **2026-10-16 12:59 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
