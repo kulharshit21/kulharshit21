@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379)
+- [Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion](https://arxiv.org/abs/2610.22380)
+- [Binding-Specific Relearning Savings for Test-Time Continual Learning](https://arxiv.org/abs/2610.22381)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-19 03:11 UTC**
+- 🕒 Last Updated: **2026-10-19 15:15 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
