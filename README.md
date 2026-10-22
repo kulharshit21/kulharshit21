@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk](https://arxiv.org/abs/2610.23857)
-- [PolyGraph: Plan-Buffered CUDA Graphs for Adaptive Speculative Decoding](https://arxiv.org/abs/2610.23861)
-- [Forecasting Patient Trajectories from the Electronic Health Records with Action-Conditioned World Models](https://arxiv.org/abs/2610.23862)
+- [High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference](https://arxiv.org/abs/2610.26866)
+- [Steerable Pluralistic Policy Alignment from Anonymized Crowd Feedback](https://arxiv.org/abs/2610.26914)
+- [Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains](https://arxiv.org/abs/2610.26932)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-21 19:54 UTC**
+- 🕒 Last Updated: **2026-10-22 03:13 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
