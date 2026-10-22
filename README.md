@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference](https://arxiv.org/abs/2610.26866)
-- [Steerable Pluralistic Policy Alignment from Anonymized Crowd Feedback](https://arxiv.org/abs/2610.26914)
-- [Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains](https://arxiv.org/abs/2610.26932)
+- [To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems](https://arxiv.org/abs/2610.28637)
+- [Interaction-Gated Time-Frequency Learning for Parameter-Efficient PPG-Based Heart Rate Estimation](https://arxiv.org/abs/2610.28693)
+- [Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey](https://arxiv.org/abs/2610.28699)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-22 03:13 UTC**
+- 🕒 Last Updated: **2026-10-22 13:24 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
