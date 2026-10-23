@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [To Keep or Not to Keep: Learning KV Cache Retention in Disaggregated LLM Serving Systems](https://arxiv.org/abs/2610.28637)
-- [Interaction-Gated Time-Frequency Learning for Parameter-Efficient PPG-Based Heart Rate Estimation](https://arxiv.org/abs/2610.28693)
-- [Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey](https://arxiv.org/abs/2610.28699)
+- [MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs](https://arxiv.org/abs/2610.30206)
+- [Spectral Uncertainty Decomposition for Sparse Bayesian Learning](https://arxiv.org/abs/2610.30207)
+- [Prediction Is Not Calibration: Item Parameter Recovery and Representation Coupling in Knowledge Tracing](https://arxiv.org/abs/2610.30211)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-23 03:18 UTC**
+- 🕒 Last Updated: **2026-10-23 13:03 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
