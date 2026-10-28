@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Collaborative In-Context Learning for Indoor Radio Map Estimation](https://arxiv.org/abs/2610.31702)
-- [The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection](https://arxiv.org/abs/2610.31704)
-- [Does LeWorldModel Preserve Local Action Geometry?](https://arxiv.org/abs/2610.31716)
+- [Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation](https://arxiv.org/abs/2610.33024)
+- [Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures](https://arxiv.org/abs/2610.33025)
+- [Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?](https://arxiv.org/abs/2610.33029)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-27 20:24 UTC**
+- 🕒 Last Updated: **2026-10-28 03:55 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
