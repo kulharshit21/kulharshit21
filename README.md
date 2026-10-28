@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation](https://arxiv.org/abs/2610.33024)
-- [Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures](https://arxiv.org/abs/2610.33025)
-- [Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?](https://arxiv.org/abs/2610.33029)
+- [KORA: Deterministic-First Execution Control for AI Workloads](https://arxiv.org/abs/2610.35869)
+- [Calibrated for Which Policy? Conformal Uncertainty for Fixed World Models Under Intervention](https://arxiv.org/abs/2610.35877)
+- [Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing](https://arxiv.org/abs/2610.35954)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-28 03:55 UTC**
+- 🕒 Last Updated: **2026-10-28 14:49 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
