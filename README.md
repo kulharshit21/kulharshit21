@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Moment-Guided Optimizers for Noisy Deep Learning: MGO-SC as a Simple Consistency Gate for Adam-Style Updates](https://arxiv.org/abs/2610.37712)
+- [What a Weight Update Buys: Leverage Across Training Stages](https://arxiv.org/abs/2610.37719)
+- [Threshold Compatibility and Support-Selection Diagnostics in Neural Discovery of Partial Differential Equations](https://arxiv.org/abs/2610.37726)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **37**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-10-30 04:18 UTC**
+- 🕒 Last Updated: **2026-10-30 20:22 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
