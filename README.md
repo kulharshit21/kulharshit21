@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Automatic Construction of Strong Simple Baselines](https://arxiv.org/abs/2610.40700)
+- [Bayesian Distribution System State Estimation with Flow Matching](https://arxiv.org/abs/2610.40728)
+- [Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection](https://arxiv.org/abs/2610.40732)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **38**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-02 04:19 UTC**
+- 🕒 Last Updated: **2026-11-02 17:46 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
