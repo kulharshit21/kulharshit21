@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Output-Aware Block Influence: Jacobian-Lens Weighting for Depth Pruning](https://arxiv.org/abs/2611.00015)
+- [FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes](https://arxiv.org/abs/2611.00130)
+- [Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation](https://arxiv.org/abs/2611.00175)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **38**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-03 05:16 UTC**
+- 🕒 Last Updated: **2026-11-03 15:47 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
