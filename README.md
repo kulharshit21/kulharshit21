@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Output-Aware Block Influence: Jacobian-Lens Weighting for Depth Pruning](https://arxiv.org/abs/2611.00015)
-- [FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes](https://arxiv.org/abs/2611.00130)
-- [Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation](https://arxiv.org/abs/2611.00175)
+- [Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection](https://arxiv.org/abs/2611.03652)
+- [Four Extensions of the Universal Law of Robustness: Log-Concave Covariates, Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data](https://arxiv.org/abs/2611.03653)
+- [Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms](https://arxiv.org/abs/2611.03654)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **38**
 - 👥 Followers: **5**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-04 04:46 UTC**
+- 🕒 Last Updated: **2026-11-04 15:56 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
