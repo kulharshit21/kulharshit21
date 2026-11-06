@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Latent Cluster Separation as a Regularizer for Lifelong Anomaly Detection](https://arxiv.org/abs/2611.03652)
-- [Four Extensions of the Universal Law of Robustness: Log-Concave Covariates, Heterogeneous Mixtures, Vector-Valued Predictors, and Markovian Data](https://arxiv.org/abs/2611.03653)
-- [Towards Automatic Heart Murmur Characterization from Multi-spot Phonocardiograms](https://arxiv.org/abs/2611.03654)
+- [SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty](https://arxiv.org/abs/2611.06953)
+- [Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.06956)
+- [Uncertainty calibration in Bayesian M/EEG source imaging](https://arxiv.org/abs/2611.06979)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **48**
 - 👥 Followers: **6**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-05 16:04 UTC**
+- 🕒 Last Updated: **2026-11-06 05:00 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
