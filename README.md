@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty](https://arxiv.org/abs/2611.06953)
-- [Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2611.06956)
-- [Uncertainty calibration in Bayesian M/EEG source imaging](https://arxiv.org/abs/2611.06979)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **48**
 - 👥 Followers: **7**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-07 04:34 UTC**
+- 🕒 Last Updated: **2026-11-07 14:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
