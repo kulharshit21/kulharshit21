@@ -61,17 +61,19 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Process then Retrieve: Investigating the Origins of the Modality Gap in Vision-Language Models](https://arxiv.org/abs/2611.09897)
+- [MAGE: Towards Generalizable Multi-timescale EEG Representations](https://arxiv.org/abs/2611.09928)
+- [Causal Discovery Bench: Can LLMs Autonomously Conduct Effective Experiments?](https://arxiv.org/abs/2611.09934)
 <!-- ARXIV_PAPERS:END -->
 
 ---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **48**
+- 👤 Public Repos: **49**
 - 👥 Followers: **7**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-10 05:53 UTC**
+- 🕒 Last Updated: **2026-11-11 04:38 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
