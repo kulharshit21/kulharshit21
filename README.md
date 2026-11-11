@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Process then Retrieve: Investigating the Origins of the Modality Gap in Vision-Language Models](https://arxiv.org/abs/2611.09897)
-- [MAGE: Towards Generalizable Multi-timescale EEG Representations](https://arxiv.org/abs/2611.09928)
-- [Causal Discovery Bench: Can LLMs Autonomously Conduct Effective Experiments?](https://arxiv.org/abs/2611.09934)
+- [An ensemble of graph generative models for assisted history matching of the Brugge field case](https://arxiv.org/abs/2611.12927)
+- [Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series](https://arxiv.org/abs/2611.12955)
+- [ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation](https://arxiv.org/abs/2611.12956)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **49**
 - 👥 Followers: **7**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-11 04:38 UTC**
+- 🕒 Last Updated: **2026-11-11 15:49 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
