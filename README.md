@@ -61,9 +61,7 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [CAFIN: CUDA-accelerated Adaptive Fisher Information Matrix Network Optimization via GPU-Native Kernel Fusion](https://arxiv.org/abs/2611.14589)
-- [An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning](https://arxiv.org/abs/2611.14590)
-- [Adversarial Risk in the Generative AI Era Necessitates Dropping the Small Epsilon Ball](https://arxiv.org/abs/2611.14594)
+
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +71,7 @@ harshit = {
 - 👤 Public Repos: **50**
 - 👥 Followers: **7**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-14 04:52 UTC**
+- 🕒 Last Updated: **2026-11-14 20:23 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
