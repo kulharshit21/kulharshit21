@@ -61,17 +61,19 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [Alignment with Reflect-Reasoning: Learning How To Follow Principles](https://arxiv.org/abs/2611.17398)
+- [WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search](https://arxiv.org/abs/2611.17412)
+- [Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates](https://arxiv.org/abs/2611.17459)
 <!-- ARXIV_PAPERS:END -->
 
 ---
 
 ## 📈 GitHub Activity
 <!-- GITHUB_STATS:START -->
-- 👤 Public Repos: **50**
-- 👥 Followers: **7**
+- 👤 Public Repos: **51**
+- 👥 Followers: **6**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-15 04:44 UTC**
+- 🕒 Last Updated: **2026-11-16 17:54 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
