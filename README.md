@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Alignment with Reflect-Reasoning: Learning How To Follow Principles](https://arxiv.org/abs/2611.17398)
-- [WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search](https://arxiv.org/abs/2611.17412)
-- [Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates](https://arxiv.org/abs/2611.17459)
+- [Check Token: Real-Time Self-Verification and Precise Truncation in LLM Reasoning](https://arxiv.org/abs/2611.18564)
+- [Quantize, Qualify, Rerank: A Recipe for Compressing LLMs Without Losing Quality](https://arxiv.org/abs/2611.18587)
+- [Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/2611.18597)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **51**
 - 👥 Followers: **6**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-16 17:54 UTC**
+- 🕒 Last Updated: **2026-11-17 17:20 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
