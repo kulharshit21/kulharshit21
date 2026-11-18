@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Check Token: Real-Time Self-Verification and Precise Truncation in LLM Reasoning](https://arxiv.org/abs/2611.18564)
-- [Quantize, Qualify, Rerank: A Recipe for Compressing LLMs Without Losing Quality](https://arxiv.org/abs/2611.18587)
-- [Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/2611.18597)
+- [DeltaHarness: Self-Evolving Harnesses for Resource-Adaptive Tool Execution](https://arxiv.org/abs/2611.21688)
+- [AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data](https://arxiv.org/abs/2611.21691)
+- [TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release](https://arxiv.org/abs/2611.21694)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **51**
 - 👥 Followers: **6**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-17 17:20 UTC**
+- 🕒 Last Updated: **2026-11-18 05:51 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
