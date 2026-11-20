@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models](https://arxiv.org/abs/2611.23240)
-- [GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables](https://arxiv.org/abs/2611.23241)
-- [Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks](https://arxiv.org/abs/2611.23242)
+- [PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction](https://arxiv.org/abs/2611.24999)
+- [Watch Where You Linearize: Predicting and Correcting Model-Merging Interference](https://arxiv.org/abs/2611.25000)
+- [Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks](https://arxiv.org/abs/2611.25001)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **52**
 - 👥 Followers: **6**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-19 17:01 UTC**
+- 🕒 Last Updated: **2026-11-20 05:39 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
