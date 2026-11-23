@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [On the loss landscape of the linear neural network: beyond critical points](https://arxiv.org/abs/2611.26671)
+- [Parasite Features: Causal Abstraction Through Spurious Pathways](https://arxiv.org/abs/2611.26711)
+- [Cross-Attack Robust Aggregation for Federated Learning](https://arxiv.org/abs/2611.26731)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **52**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-22 21:30 UTC**
+- 🕒 Last Updated: **2026-11-23 05:41 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
