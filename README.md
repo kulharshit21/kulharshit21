@@ -61,7 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-
+- [WISP: Composable Representations for Wrist-Worn Activity Recognition](https://arxiv.org/abs/2611.28033)
+- [Measuring and Teaching Language Model Agents to Act on Delayed Consequences](https://arxiv.org/abs/2611.28158)
+- [RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds](https://arxiv.org/abs/2611.28171)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -71,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **52**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-24 08:19 UTC**
+- 🕒 Last Updated: **2026-11-25 00:18 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
