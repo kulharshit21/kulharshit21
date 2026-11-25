@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [WISP: Composable Representations for Wrist-Worn Activity Recognition](https://arxiv.org/abs/2611.28033)
-- [Measuring and Teaching Language Model Agents to Act on Delayed Consequences](https://arxiv.org/abs/2611.28158)
-- [RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds](https://arxiv.org/abs/2611.28171)
+- [Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive calibration](https://arxiv.org/abs/2611.31245)
+- [Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios](https://arxiv.org/abs/2611.31249)
+- [Chain-of-Thought Is Not Explainability](https://arxiv.org/abs/2611.31271)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **52**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-25 00:18 UTC**
+- 🕒 Last Updated: **2026-11-25 18:23 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
