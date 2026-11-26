@@ -61,9 +61,9 @@ harshit = {
 
 ## 🤖 Today's Top ML Papers from ArXiv
 <!-- ARXIV_PAPERS:START -->
-- [Local subspace encoding for spectral prediction: from TabPFN to operator-adaptive calibration](https://arxiv.org/abs/2611.31245)
-- [Actionwave: A Systematic Benchmark for Waveform-Centric Clinical Prediction Across Care Scenarios](https://arxiv.org/abs/2611.31249)
-- [Chain-of-Thought Is Not Explainability](https://arxiv.org/abs/2611.31271)
+- [Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments](https://arxiv.org/abs/2611.33162)
+- [Quantum Machine Learning for Signature Forgery Detection](https://arxiv.org/abs/2611.33163)
+- [Code availability is not enough: schemas for documenting and extending data analysis](https://arxiv.org/abs/2611.33167)
 <!-- ARXIV_PAPERS:END -->
 
 ---
@@ -73,7 +73,7 @@ harshit = {
 - 👤 Public Repos: **52**
 - 👥 Followers: **4**
 - ⭐ Following: **6**
-- 🕒 Last Updated: **2026-11-25 18:23 UTC**
+- 🕒 Last Updated: **2026-11-26 06:46 UTC**
 <!-- GITHUB_STATS:END -->
 
 ---
